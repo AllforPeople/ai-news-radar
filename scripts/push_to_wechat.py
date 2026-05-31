@@ -136,14 +136,9 @@ def format_item(item: dict, index: int, show_source: bool = True) -> str:
     }
     label_cn = label_map.get(label, label) if label else ""
 
-    lines = [f"{index}. {title}"]
-    meta_parts = []
+    lines = [f"【{label_cn}】{index}. {title}"]
     if source:
-        meta_parts.append(source)
-    if label_cn:
-        meta_parts.append(f"【{label_cn}】")
-    if meta_parts:
-        lines.append("   " + "  ".join(meta_parts))
+        lines[-1] += f" - {source}"
     return "\n".join(lines)
 
 
