@@ -37,7 +37,9 @@ jobs:
           FOLLOW_OPML_B64: ${{ secrets.FOLLOW_OPML_B64 }}
         run: |
           mkdir -p feeds
-          if [ -n "$FOLLOW_OPML_B64" ]; then
+          if [ -f feeds/follow.opml ]; then
+            echo "Using custom feeds/follow.opml from repository"
+          elif [ -n "$FOLLOW_OPML_B64" ]; then
             echo "$FOLLOW_OPML_B64" | base64 --decode > feeds/follow.opml
             echo "Loaded feeds/follow.opml from FOLLOW_OPML_B64 secret"
           elif [ -f feeds/follow.example.opml ]; then
