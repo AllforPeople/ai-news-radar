@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-31T08:38:45.064456Z",
+  "generated_at": "2026-05-31T08:54:22.472127Z",
   "window_hours": 24,
-  "total_items": 412,
-  "total_items_ai_raw": 438,
-  "total_items_raw": 5508,
-  "total_items_all_mode": 5115,
+  "total_items": 409,
+  "total_items_ai_raw": 435,
+  "total_items_raw": 5470,
+  "total_items_all_mode": 5077,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
   "archive_total": 136651,
-  "site_count": 13,
+  "site_count": 10,
   "source_count": 83,
   "site_stats": [
     {
       "site_id": "buzzing",
       "site_name": "Buzzing",
-      "count": 106,
-      "raw_count": 1229
+      "count": 105,
+      "raw_count": 1202
     },
     {
       "site_id": "tophub",
@@ -32,20 +32,20 @@
     {
       "site_id": "iris",
       "site_name": "Info Flow",
-      "count": 58,
-      "raw_count": 544
+      "count": 56,
+      "raw_count": 538
     },
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "count": 38,
-      "raw_count": 238
+      "raw_count": 235
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 23,
-      "raw_count": 156
+      "raw_count": 155
     },
     {
       "site_id": "aihot",
@@ -57,7 +57,7 @@
       "site_id": "followbuilders",
       "site_name": "Follow Builders",
       "count": 9,
-      "raw_count": 21
+      "raw_count": 20
     },
     {
       "site_id": "opmlrss",
@@ -68,24 +68,6 @@
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
-      "count": 0,
-      "raw_count": 0
-    },
-    {
-      "site_id": "aibreakfast",
-      "site_name": "AI Breakfast",
-      "count": 0,
-      "raw_count": 0
-    },
-    {
-      "site_id": "aihubtoday",
-      "site_name": "AI HubToday",
-      "count": 0,
-      "raw_count": 0
-    },
-    {
-      "site_id": "aibase",
-      "site_name": "AIbase",
       "count": 0,
       "raw_count": 0
     }
@@ -100,7 +82,7 @@
       "url": "https://www.infoq.cn/article/GlN4vSis105MkMajCcJz",
       "published_at": "2026-05-31T10:00:00Z",
       "first_seen_at": "2026-05-31T05:00:57.965122Z",
-      "last_seen_at": "2026-05-31T08:38:45.064456Z",
+      "last_seen_at": "2026-05-31T08:54:22.472127Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "agent_workflow",
@@ -2192,7 +2174,7 @@
       "url": "https://simonwillison.net/2026/May/31/anthropic-run-rate",
       "published_at": "2026-05-31T01:48:12Z",
       "first_seen_at": "2026-05-31T05:00:57.965122Z",
-      "last_seen_at": "2026-05-31T08:38:45.064456Z",
+      "last_seen_at": "2026-05-31T08:54:22.472127Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "ai_product_update",
@@ -3149,7 +3131,7 @@
       "url": "https://simonwillison.net/2026/May/30/how-we-contain-claude",
       "published_at": "2026-05-30T21:36:24Z",
       "first_seen_at": "2026-05-30T22:57:38.444811Z",
-      "last_seen_at": "2026-05-31T08:38:45.064456Z",
+      "last_seen_at": "2026-05-31T08:54:22.472127Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "model_release",
@@ -8423,7 +8405,7 @@
       "url": "https://www.infoq.cn/article/u6lPG0uJcGuF1aSxrumc",
       "published_at": "2026-05-30T10:00:00Z",
       "first_seen_at": "2026-05-30T03:27:36.015088Z",
-      "last_seen_at": "2026-05-31T08:38:45.064456Z",
+      "last_seen_at": "2026-05-31T08:54:22.472127Z",
       "ai_is_related": true,
       "ai_score": 0.74,
       "ai_label": "agent_workflow",
@@ -8630,7 +8612,7 @@
       "url": "https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software",
       "published_at": "2026-05-30T09:30:00Z",
       "first_seen_at": "2026-05-30T10:56:27.411630Z",
-      "last_seen_at": "2026-05-31T08:38:45.064456Z",
+      "last_seen_at": "2026-05-31T08:54:22.472127Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -9315,73 +9297,6 @@
       "title_en": "Until May 31, get Claude, Gemini, and ChatGPT for life for $70",
       "title_zh": "5 月 31 日之前，只需 70 美元即可终身获得 Claude、Gemini 和 ChatGPT",
       "title_bilingual": "5 月 31 日之前，只需 70 美元即可终身获得 Claude、Gemini 和 ChatGPT / Until May 31, get Claude, Gemini, and ChatGPT for life for $70"
-    },
-    {
-      "id": "669e04bf6680cec9656423bfcf2e38b326136da4",
-      "site_id": "iris",
-      "site_name": "Info Flow",
-      "source": "V2EX (创意工作者社区)",
-      "title": "[问与答] AI 到底带来了什么？",
-      "url": "https://www.v2ex.com/t/1216678",
-      "published_at": "2026-05-30T08:48:45Z",
-      "first_seen_at": "2026-05-30T09:17:41.913012Z",
-      "last_seen_at": "2026-05-31T00:06:26.688159Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "ai_general",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [],
-      "ai_noise": [],
-      "title_original": "[问与答] AI 到底带来了什么？",
-      "title_en": null,
-      "title_zh": "[问与答] AI 到底带来了什么？",
-      "title_bilingual": "[问与答] AI 到底带来了什么？"
-    },
-    {
-      "id": "bd654a91239df06fe79e9d71d101e199d6a62f9f",
-      "site_id": "iris",
-      "site_name": "Info Flow",
-      "source": "V2EX (创意工作者社区)",
-      "title": "[推广] 提供大模型 API 中转站搭建 / 部署 / 二开 / 渠道接入服务",
-      "url": "https://www.v2ex.com/t/1216677",
-      "published_at": "2026-05-30T08:47:57Z",
-      "first_seen_at": "2026-05-30T09:17:41.913012Z",
-      "last_seen_at": "2026-05-31T00:06:26.688159Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "model_release",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "大模型"
-      ],
-      "ai_noise": [],
-      "title_original": "[推广] 提供大模型 API 中转站搭建 / 部署 / 二开 / 渠道接入服务",
-      "title_en": null,
-      "title_zh": "[推广] 提供大模型 API 中转站搭建 / 部署 / 二开 / 渠道接入服务",
-      "title_bilingual": "[推广] 提供大模型 API 中转站搭建 / 部署 / 二开 / 渠道接入服务"
-    },
-    {
-      "id": "80508e8c4c0f7b7a01c1638aea96765efc3ad37e",
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "finance.yahoo.com",
-      "title": "百时美施贵宝（BMY）与Anthropic达成合作",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/bristol-myers-squibb-bmy-partners-053740926.html",
-      "published_at": "2026-05-30T08:45:13.742000Z",
-      "first_seen_at": "2026-05-30T09:17:41.913012Z",
-      "last_seen_at": "2026-05-30T09:17:41.913012Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "ai_product_update",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "anthropic"
-      ],
-      "ai_noise": [],
-      "title_original": "百时美施贵宝（BMY）与Anthropic达成合作",
-      "title_en": null,
-      "title_zh": "百时美施贵宝（BMY）与Anthropic达成合作",
-      "title_bilingual": "百时美施贵宝（BMY）与Anthropic达成合作"
     }
   ],
   "items_ai": [
@@ -9394,7 +9309,7 @@
       "url": "https://www.infoq.cn/article/GlN4vSis105MkMajCcJz",
       "published_at": "2026-05-31T10:00:00Z",
       "first_seen_at": "2026-05-31T05:00:57.965122Z",
-      "last_seen_at": "2026-05-31T08:38:45.064456Z",
+      "last_seen_at": "2026-05-31T08:54:22.472127Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "agent_workflow",
@@ -11486,7 +11401,7 @@
       "url": "https://simonwillison.net/2026/May/31/anthropic-run-rate",
       "published_at": "2026-05-31T01:48:12Z",
       "first_seen_at": "2026-05-31T05:00:57.965122Z",
-      "last_seen_at": "2026-05-31T08:38:45.064456Z",
+      "last_seen_at": "2026-05-31T08:54:22.472127Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "ai_product_update",
@@ -12443,7 +12358,7 @@
       "url": "https://simonwillison.net/2026/May/30/how-we-contain-claude",
       "published_at": "2026-05-30T21:36:24Z",
       "first_seen_at": "2026-05-30T22:57:38.444811Z",
-      "last_seen_at": "2026-05-31T08:38:45.064456Z",
+      "last_seen_at": "2026-05-31T08:54:22.472127Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "model_release",
@@ -17717,7 +17632,7 @@
       "url": "https://www.infoq.cn/article/u6lPG0uJcGuF1aSxrumc",
       "published_at": "2026-05-30T10:00:00Z",
       "first_seen_at": "2026-05-30T03:27:36.015088Z",
-      "last_seen_at": "2026-05-31T08:38:45.064456Z",
+      "last_seen_at": "2026-05-31T08:54:22.472127Z",
       "ai_is_related": true,
       "ai_score": 0.74,
       "ai_label": "agent_workflow",
@@ -17924,7 +17839,7 @@
       "url": "https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software",
       "published_at": "2026-05-30T09:30:00Z",
       "first_seen_at": "2026-05-30T10:56:27.411630Z",
-      "last_seen_at": "2026-05-31T08:38:45.064456Z",
+      "last_seen_at": "2026-05-31T08:54:22.472127Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -18609,73 +18524,6 @@
       "title_en": "Until May 31, get Claude, Gemini, and ChatGPT for life for $70",
       "title_zh": "5 月 31 日之前，只需 70 美元即可终身获得 Claude、Gemini 和 ChatGPT",
       "title_bilingual": "5 月 31 日之前，只需 70 美元即可终身获得 Claude、Gemini 和 ChatGPT / Until May 31, get Claude, Gemini, and ChatGPT for life for $70"
-    },
-    {
-      "id": "669e04bf6680cec9656423bfcf2e38b326136da4",
-      "site_id": "iris",
-      "site_name": "Info Flow",
-      "source": "V2EX (创意工作者社区)",
-      "title": "[问与答] AI 到底带来了什么？",
-      "url": "https://www.v2ex.com/t/1216678",
-      "published_at": "2026-05-30T08:48:45Z",
-      "first_seen_at": "2026-05-30T09:17:41.913012Z",
-      "last_seen_at": "2026-05-31T00:06:26.688159Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "ai_general",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [],
-      "ai_noise": [],
-      "title_original": "[问与答] AI 到底带来了什么？",
-      "title_en": null,
-      "title_zh": "[问与答] AI 到底带来了什么？",
-      "title_bilingual": "[问与答] AI 到底带来了什么？"
-    },
-    {
-      "id": "bd654a91239df06fe79e9d71d101e199d6a62f9f",
-      "site_id": "iris",
-      "site_name": "Info Flow",
-      "source": "V2EX (创意工作者社区)",
-      "title": "[推广] 提供大模型 API 中转站搭建 / 部署 / 二开 / 渠道接入服务",
-      "url": "https://www.v2ex.com/t/1216677",
-      "published_at": "2026-05-30T08:47:57Z",
-      "first_seen_at": "2026-05-30T09:17:41.913012Z",
-      "last_seen_at": "2026-05-31T00:06:26.688159Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "model_release",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "大模型"
-      ],
-      "ai_noise": [],
-      "title_original": "[推广] 提供大模型 API 中转站搭建 / 部署 / 二开 / 渠道接入服务",
-      "title_en": null,
-      "title_zh": "[推广] 提供大模型 API 中转站搭建 / 部署 / 二开 / 渠道接入服务",
-      "title_bilingual": "[推广] 提供大模型 API 中转站搭建 / 部署 / 二开 / 渠道接入服务"
-    },
-    {
-      "id": "80508e8c4c0f7b7a01c1638aea96765efc3ad37e",
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "finance.yahoo.com",
-      "title": "百时美施贵宝（BMY）与Anthropic达成合作",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/bristol-myers-squibb-bmy-partners-053740926.html",
-      "published_at": "2026-05-30T08:45:13.742000Z",
-      "first_seen_at": "2026-05-30T09:17:41.913012Z",
-      "last_seen_at": "2026-05-30T09:17:41.913012Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "ai_product_update",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "anthropic"
-      ],
-      "ai_noise": [],
-      "title_original": "百时美施贵宝（BMY）与Anthropic达成合作",
-      "title_en": null,
-      "title_zh": "百时美施贵宝（BMY）与Anthropic达成合作",
-      "title_bilingual": "百时美施贵宝（BMY）与Anthropic达成合作"
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
