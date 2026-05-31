@@ -1851,16 +1851,16 @@ def fetch_newsnow(session: requests.Session, now: datetime) -> list[RawItem]:
 def collect_all(session: requests.Session, now: datetime) -> tuple[list[RawItem], list[dict[str, Any]]]:
     tasks = [
         ("official_ai", "Official AI Updates", fetch_official_ai_updates),
-        ("aibreakfast", "AI Breakfast", fetch_ai_breakfast),
-        ("followbuilders", "Follow Builders", fetch_follow_builders),
+                # ("aibreakfast", "AI Breakfast", fetch_ai_breakfast),  # disabled: aggregator,
+                # ("followbuilders", "Follow Builders", fetch_follow_builders),  # disabled: aggregator,
                 # ("techurls", "TechURLs", fetch_techurls),  # disabled: news aggregator, noisy,
                 # ("buzzing", "Buzzing", fetch_buzzing),  # disabled: news aggregator, noisy,
                 # ("iris", "Info Flow", fetch_iris),  # disabled: too many low quality,
                 # ("bestblogs", "BestBlogs", fetch_bestblogs),  # disabled: minimal output,
                 # ("tophub", "TopHub", fetch_tophub),  # disabled: worst noise source,
                 # ("zeli", "Zeli", fetch_zeli),  # disabled: aggregated reposts,
-        ("aihubtoday", "AI HubToday", fetch_ai_hubtoday),
-        ("aibase", "AIbase", fetch_aibase),
+                # ("aihubtoday", "AI HubToday", fetch_ai_hubtoday),  # disabled: aggregator,
+                # ("aibase", "AIbase", fetch_aibase),  # disabled: aggregator,
                 # ("aihot", "AI HOT", fetch_aihot),  # disabled: dead/zero output,
                 # ("newsnow", "NewsNow", fetch_newsnow),  # disabled: aggregated reposts,
     ]
