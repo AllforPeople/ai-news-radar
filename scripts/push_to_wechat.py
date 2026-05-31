@@ -144,8 +144,6 @@ def format_item(item: dict, index: int, show_source: bool = True) -> str:
         meta_parts.append(f"【{label_cn}】")
     if meta_parts:
         lines.append("   " + "  ".join(meta_parts))
-    if url:
-        lines.append(f"   {url}")
     return "\n".join(lines)
 
 
@@ -172,19 +170,7 @@ def generate_report(data: dict, top_n: int = 5) -> str:
         lines.append(format_item(item, i))
         lines.append("")
 
-    # 站点统计摘要
-    site_stats = data.get("site_stats", [])
-    if site_stats:
-        top_sites = sorted(site_stats, key=lambda s: s.get("count", 0), reverse=True)
-        active_sites = [s for s in top_sites if s.get("count", 0) > 0]
-        if active_sites:
-            site_summary = "  ".join(
-                f"{s['site_name']}({s['count']})" for s in active_sites[:5]
-            )
-            lines.append(f"来源分布：{site_summary}")
-
-    lines.append(f"今日共 {total} 条 AI 相关更新，以上为前 {min(top_n, total)} 条精选。")
-    lines.append(f"完整列表请访问 GitHub Pages。")
+    lines.append(f"以上为今日 AI 精选，共 {min(top_n, total)} 条。")
 
     return "\n".join(lines)
 
