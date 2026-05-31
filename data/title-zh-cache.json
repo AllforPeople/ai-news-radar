@@ -17466,5 +17466,6 @@
   "what i love about auto-review: Cursor explains the command and risk, makes it much easier for new coders to learn and just do things https://t.co/3d2gt9uRKq": "我喜欢自动审查的原因：光标解释了命令和风险，使新程序员更容易学习和做事 https://t.co/3d2gt9uRKq",
   "With GPT 5.5, /goal, autoreview and crabbox my prompts moved from ~30-60min to often 4-10h tasks and my confidence that it’s ready is much much higher. Yielding agents is a skill.": "借助 GPT 5.5、/goal、autoreview 和crabbox，我的提示从约 30-60 分钟变为通常需要 4-10 小时的任务，而且我对它已准备就绪的信心要高得多。产生代理是一种技能。",
   "I do this with codex all the time. Ask it to review code for bugs and it will tell you all good, tell it there is a bug and it will LOOP AND LOOP and will find issues. https://t.co/SOAa7Z1H4I": "我一直用 codex 这样做。要求它检查代码中的错误，它会告诉你一切都好，告诉它有一个错误，它会循环并循环并找到问题。 https://t.co/SOAa7Z1H4I",
-  "When we go from GPT-5.0 -&gt; GPT-5.1 -&gt; ... -&gt; GPT-5.5, the number incrementing goes with improvements in capabilities and token efficiency (which translates to speed gains). With GPT-5.5 our best model yet. A...": "当我们从 GPT-5.0 -> GPT-5.1 -> ... -> GPT-5.5 时，数字的增加伴随着功能和令牌效率的改进（这转化为速度的提升）。 GPT-5.5 是我们迄今为止最好的模型。一个..."
+  "When we go from GPT-5.0 -&gt; GPT-5.1 -&gt; ... -&gt; GPT-5.5, the number incrementing goes with improvements in capabilities and token efficiency (which translates to speed gains). With GPT-5.5 our best model yet. A...": "当我们从 GPT-5.0 -> GPT-5.1 -> ... -> GPT-5.5 时，数字的增加伴随着功能和令牌效率的改进（这转化为速度的提升）。 GPT-5.5 是我们迄今为止最好的模型。一个...",
+  "A pictorial introduction to differential geometry (2017)": "微分几何图解简介（2017）"
 }
