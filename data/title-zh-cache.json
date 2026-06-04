@@ -17535,5 +17535,9 @@
   "Quantum Computing Is Having Its Public Market Moment": "量子计算正在迎来公开市场时刻",
   "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents": "NVIDIA Nemotron 3 Ultra 为长时间运行的代理提供更快、更高效的推理",
   "How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent": "如何针对您的语言、领域或口音微调 Nemotron 3.5 ASR",
-  "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios": "EVA-Bench Data 2.0：3个领域、121个工具、213个场景"
+  "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios": "EVA-Bench Data 2.0：3个领域、121个工具、213个场景",
+  "GitHub Copilot in Visual Studio — May update": "Visual Studio 中的 GitHub Copilot — 5 月更新",
+  "Enterprise Teams is now generally available": "Enterprise Teams 现已全面推出",
+  "Dreaming: Better memory for a more helpful ChatGPT": "梦想：更好的记忆力，更有用的 ChatGPT",
+  "Designing the hf CLI as an agent-optimized way to work with the Hub": "将 hf CLI 设计为与 Hub 配合使用的代理优化方式"
 }
