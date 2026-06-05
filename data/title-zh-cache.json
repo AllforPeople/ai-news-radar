@@ -17555,5 +17555,7 @@
   "Has Microsoft Lost Its Mojo (Again)?": "微软再次失去魔力了吗？",
   "The latest AI news we announced in May 2026": "我们于 2026 年 5 月公布的最新 AI 新闻",
   "Budget and usage management APIs now generally available": "预算和使用管理 API 现已普遍可用",
-  "API access to billing usage reports now generally available": "现已普遍提供对计费使用报告的 API 访问"
+  "API access to billing usage reports now generally available": "现已普遍提供对计费使用报告的 API 访问",
+  "CodeQL 2.25.6 adds Swift 6.3.2 support and improves C# coverage": "CodeQL 2.25.6 添加了 Swift 6.3.2 支持并改进了 C# 覆盖率",
+  "Enterprise-managed plugins in VS Code in public preview": "公共预览版 VS Code 中的企业管理插件"
 }
