@@ -17558,5 +17558,7 @@
   "API access to billing usage reports now generally available": "现已普遍提供对计费使用报告的 API 访问",
   "CodeQL 2.25.6 adds Swift 6.3.2 support and improves C# coverage": "CodeQL 2.25.6 添加了 Swift 6.3.2 支持并改进了 C# 覆盖率",
   "Enterprise-managed plugins in VS Code in public preview": "公共预览版 VS Code 中的企业管理插件",
-  "Thousand Token Wood: shipping a multi-agent economy on a 3B model": "千代木：在 3B 模型上实现多主体经济"
+  "Thousand Token Wood: shipping a multi-agent economy on a 3B model": "千代木：在 3B 模型上实现多主体经济",
+  "OpenAI Help: Lockdown Mode": "OpenAI 帮助：锁定模式",
+  "GPT-5.2 and GPT-5.2-Codex deprecated": "GPT-5.2 和 GPT-5.2-Codex 已弃用"
 }
