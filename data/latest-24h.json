@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T18:07:09.516823Z",
+  "generated_at": "2026-06-07T19:55:41.300288Z",
   "window_hours": 24,
   "total_items": 4,
   "total_items_ai_raw": 7,
@@ -7,25 +7,49 @@
   "total_items_all_mode": 4,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 88835,
+  "archive_total": 88645,
   "site_count": 2,
-  "source_count": 2,
+  "source_count": 3,
   "site_stats": [
-    {
-      "site_id": "official_ai",
-      "site_name": "Official AI Updates",
-      "count": 3,
-      "raw_count": 3
-    },
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
-      "count": 1,
+      "count": 2,
       "raw_count": 4
+    },
+    {
+      "site_id": "official_ai",
+      "site_name": "Official AI Updates",
+      "count": 2,
+      "raw_count": 3
     }
   ],
   "items": [
     {
+      "id": "6ea10e13441aea1b398ab0420774c8bf1777d2cd",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "Hugging Face Blog",
+      "title": "Amazing Digital Dentures (a failed project)",
+      "url": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
+      "published_at": "2026-06-07T19:44:27Z",
+      "first_seen_at": "2026-06-07T19:55:41.300288Z",
+      "last_seen_at": "2026-06-07T19:55:41.300288Z",
+      "ai_is_related": true,
+      "ai_score": 0.75,
+      "ai_label": "ai_general",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "hugging face",
+        "huggingface"
+      ],
+      "ai_noise": [],
+      "title_original": "Amazing Digital Dentures (a failed project)",
+      "title_en": "Amazing Digital Dentures (a failed project)",
+      "title_zh": "惊人的数字假牙（失败的项目）",
+      "title_bilingual": "惊人的数字假牙（失败的项目） / Amazing Digital Dentures (a failed project)"
+    },
+    {
       "id": "dd1a04a6cd5cad9ed966d87f4839400346897fb2",
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
@@ -85,7 +109,7 @@
       "url": "https://www.infoq.cn/article/pOwoNlmEL9zV0aodLVB9",
       "published_at": "2026-06-07T10:00:00Z",
       "first_seen_at": "2026-06-07T05:08:39.443249Z",
-      "last_seen_at": "2026-06-07T18:07:09.516823Z",
+      "last_seen_at": "2026-06-07T19:55:41.300288Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "developer_tool",
@@ -96,34 +120,34 @@
       "title_en": null,
       "title_zh": "得物推荐 AI Harness：从“狂野代码”到“按目标生产”｜AICon上海",
       "title_bilingual": "得物推荐 AI Harness：从“狂野代码”到“按目标生产”｜AICon上海"
-    },
-    {
-      "id": "283109a62d99ff43aa9055eea33767b9354a323d",
-      "site_id": "official_ai",
-      "site_name": "Official AI Updates",
-      "source": "Hugging Face Blog",
-      "title": "Five labs, five minds: building a multi-model finance drama on small models",
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
-      "published_at": "2026-06-06T19:02:33Z",
-      "first_seen_at": "2026-06-06T19:38:05.388611Z",
-      "last_seen_at": "2026-06-07T08:35:53.649317Z",
-      "ai_is_related": true,
-      "ai_score": 0.95,
-      "ai_label": "model_release",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "hugging face",
-        "huggingface"
-      ],
-      "ai_noise": [],
-      "title_original": "Five labs, five minds: building a multi-model finance drama on small models",
-      "title_en": "Five labs, five minds: building a multi-model finance drama on small models",
-      "title_zh": "五个实验室，五个头脑：在小模型上构建多模型金融戏剧",
-      "title_bilingual": "五个实验室，五个头脑：在小模型上构建多模型金融戏剧 / Five labs, five minds: building a multi-model finance drama on small models"
     }
   ],
   "items_ai": [
     {
+      "id": "6ea10e13441aea1b398ab0420774c8bf1777d2cd",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "Hugging Face Blog",
+      "title": "Amazing Digital Dentures (a failed project)",
+      "url": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
+      "published_at": "2026-06-07T19:44:27Z",
+      "first_seen_at": "2026-06-07T19:55:41.300288Z",
+      "last_seen_at": "2026-06-07T19:55:41.300288Z",
+      "ai_is_related": true,
+      "ai_score": 0.75,
+      "ai_label": "ai_general",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "hugging face",
+        "huggingface"
+      ],
+      "ai_noise": [],
+      "title_original": "Amazing Digital Dentures (a failed project)",
+      "title_en": "Amazing Digital Dentures (a failed project)",
+      "title_zh": "惊人的数字假牙（失败的项目）",
+      "title_bilingual": "惊人的数字假牙（失败的项目） / Amazing Digital Dentures (a failed project)"
+    },
+    {
       "id": "dd1a04a6cd5cad9ed966d87f4839400346897fb2",
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
@@ -183,7 +207,7 @@
       "url": "https://www.infoq.cn/article/pOwoNlmEL9zV0aodLVB9",
       "published_at": "2026-06-07T10:00:00Z",
       "first_seen_at": "2026-06-07T05:08:39.443249Z",
-      "last_seen_at": "2026-06-07T18:07:09.516823Z",
+      "last_seen_at": "2026-06-07T19:55:41.300288Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "developer_tool",
@@ -194,30 +218,6 @@
       "title_en": null,
       "title_zh": "得物推荐 AI Harness：从“狂野代码”到“按目标生产”｜AICon上海",
       "title_bilingual": "得物推荐 AI Harness：从“狂野代码”到“按目标生产”｜AICon上海"
-    },
-    {
-      "id": "283109a62d99ff43aa9055eea33767b9354a323d",
-      "site_id": "official_ai",
-      "site_name": "Official AI Updates",
-      "source": "Hugging Face Blog",
-      "title": "Five labs, five minds: building a multi-model finance drama on small models",
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
-      "published_at": "2026-06-06T19:02:33Z",
-      "first_seen_at": "2026-06-06T19:38:05.388611Z",
-      "last_seen_at": "2026-06-07T08:35:53.649317Z",
-      "ai_is_related": true,
-      "ai_score": 0.95,
-      "ai_label": "model_release",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "hugging face",
-        "huggingface"
-      ],
-      "ai_noise": [],
-      "title_original": "Five labs, five minds: building a multi-model finance drama on small models",
-      "title_en": "Five labs, five minds: building a multi-model finance drama on small models",
-      "title_zh": "五个实验室，五个头脑：在小模型上构建多模型金融戏剧",
-      "title_bilingual": "五个实验室，五个头脑：在小模型上构建多模型金融戏剧 / Five labs, five minds: building a multi-model finance drama on small models"
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
