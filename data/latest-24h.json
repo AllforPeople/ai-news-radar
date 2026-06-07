@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T11:11:26.903302Z",
+  "generated_at": "2026-06-07T13:05:31.347505Z",
   "window_hours": 24,
   "total_items": 5,
   "total_items_ai_raw": 9,
@@ -7,25 +7,51 @@
   "total_items_all_mode": 5,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 90515,
+  "archive_total": 90117,
   "site_count": 2,
   "source_count": 3,
   "site_stats": [
     {
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "count": 3,
-      "raw_count": 5
-    },
-    {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
-      "count": 2,
+      "count": 3,
       "raw_count": 4
+    },
+    {
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "count": 2,
+      "raw_count": 5
     }
   ],
   "items": [
     {
+      "id": "dd1a04a6cd5cad9ed966d87f4839400346897fb2",
+      "site_id": "official_ai",
+      "site_name": "Official AI Updates",
+      "source": "Hugging Face Blog",
+      "title": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
+      "url": "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers",
+      "published_at": "2026-06-07T11:38:54Z",
+      "first_seen_at": "2026-06-07T13:05:31.347505Z",
+      "last_seen_at": "2026-06-07T13:05:31.347505Z",
+      "ai_is_related": true,
+      "ai_score": 1.0,
+      "ai_label": "developer_tool",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "codex",
+        "hugging face",
+        "huggingface",
+        "openai"
+      ],
+      "ai_noise": [],
+      "title_original": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
+      "title_en": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
+      "title_zh": "特别赞助 OPENAI CODEX 代金券用于 Codex - openAI 挑战",
+      "title_bilingual": "特别赞助 OPENAI CODEX 代金券用于 Codex - openAI 挑战 / Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange"
+    },
+    {
       "id": "e3a226f3f23e4ef5ecf5d7ea83c9f80cb9d34b2e",
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
@@ -59,7 +85,7 @@
       "url": "https://www.infoq.cn/article/pOwoNlmEL9zV0aodLVB9",
       "published_at": "2026-06-07T10:00:00Z",
       "first_seen_at": "2026-06-07T05:08:39.443249Z",
-      "last_seen_at": "2026-06-07T11:11:26.903302Z",
+      "last_seen_at": "2026-06-07T13:05:31.347505Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "developer_tool",
@@ -118,34 +144,36 @@
       "title_en": "Job Searcher",
       "title_zh": "求职者",
       "title_bilingual": "求职者 / Job Searcher"
-    },
-    {
-      "id": "aad21f45026d1bed1036d6dbfcd56e0c9fd368b7",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "Hugging Face Blog",
-      "title": "Persona Atlas: Mapping How Famous Minds Think",
-      "url": "https://huggingface.co/blog/build-small-hackathon/persona-atlas",
-      "published_at": "2026-06-06T11:42:01Z",
-      "first_seen_at": "2026-06-06T12:51:54.418625Z",
-      "last_seen_at": "2026-06-06T12:51:54.418625Z",
-      "ai_is_related": true,
-      "ai_score": 0.75,
-      "ai_label": "ai_general",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "hugging face",
-        "huggingface"
-      ],
-      "ai_noise": [],
-      "title_original": "Persona Atlas: Mapping How Famous Minds Think",
-      "title_en": "Persona Atlas: Mapping How Famous Minds Think",
-      "title_zh": "角色图谱：绘制名人思想图谱",
-      "title_bilingual": "角色图谱：绘制名人思想图谱 / Persona Atlas: Mapping How Famous Minds Think"
     }
   ],
   "items_ai": [
     {
+      "id": "dd1a04a6cd5cad9ed966d87f4839400346897fb2",
+      "site_id": "official_ai",
+      "site_name": "Official AI Updates",
+      "source": "Hugging Face Blog",
+      "title": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
+      "url": "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers",
+      "published_at": "2026-06-07T11:38:54Z",
+      "first_seen_at": "2026-06-07T13:05:31.347505Z",
+      "last_seen_at": "2026-06-07T13:05:31.347505Z",
+      "ai_is_related": true,
+      "ai_score": 1.0,
+      "ai_label": "developer_tool",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "codex",
+        "hugging face",
+        "huggingface",
+        "openai"
+      ],
+      "ai_noise": [],
+      "title_original": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
+      "title_en": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
+      "title_zh": "特别赞助 OPENAI CODEX 代金券用于 Codex - openAI 挑战",
+      "title_bilingual": "特别赞助 OPENAI CODEX 代金券用于 Codex - openAI 挑战 / Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange"
+    },
+    {
       "id": "e3a226f3f23e4ef5ecf5d7ea83c9f80cb9d34b2e",
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
@@ -179,7 +207,7 @@
       "url": "https://www.infoq.cn/article/pOwoNlmEL9zV0aodLVB9",
       "published_at": "2026-06-07T10:00:00Z",
       "first_seen_at": "2026-06-07T05:08:39.443249Z",
-      "last_seen_at": "2026-06-07T11:11:26.903302Z",
+      "last_seen_at": "2026-06-07T13:05:31.347505Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "developer_tool",
@@ -238,30 +266,6 @@
       "title_en": "Job Searcher",
       "title_zh": "求职者",
       "title_bilingual": "求职者 / Job Searcher"
-    },
-    {
-      "id": "aad21f45026d1bed1036d6dbfcd56e0c9fd368b7",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "Hugging Face Blog",
-      "title": "Persona Atlas: Mapping How Famous Minds Think",
-      "url": "https://huggingface.co/blog/build-small-hackathon/persona-atlas",
-      "published_at": "2026-06-06T11:42:01Z",
-      "first_seen_at": "2026-06-06T12:51:54.418625Z",
-      "last_seen_at": "2026-06-06T12:51:54.418625Z",
-      "ai_is_related": true,
-      "ai_score": 0.75,
-      "ai_label": "ai_general",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "hugging face",
-        "huggingface"
-      ],
-      "ai_noise": [],
-      "title_original": "Persona Atlas: Mapping How Famous Minds Think",
-      "title_en": "Persona Atlas: Mapping How Famous Minds Think",
-      "title_zh": "角色图谱：绘制名人思想图谱",
-      "title_bilingual": "角色图谱：绘制名人思想图谱 / Persona Atlas: Mapping How Famous Minds Think"
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
