@@ -17593,5 +17593,8 @@
   "Evaluate Clinical ASR Models Faster with Agent Skills and NVIDIA Nemotron Speech": "利用代理技能和 NVIDIA Nemotron 语音更快地评估临床 ASR 模型",
   "Introducing Gemma 4 12B: a unified, encoder-free multimodal model": "Gemma 4 12B 简介：统一、无编码器的多模态模型",
   "Powering the future of robotics in Europe": "为欧洲机器人技术的未来提供动力",
-  "Claude Fable 5 and Claude Mythos 5": "克劳德寓言5和克劳德神话5"
+  "Claude Fable 5 and Claude Mythos 5": "克劳德寓言5和克劳德神话5",
+  "Delivering Lifecycle Control for AI Infrastructure at Scale with NVIDIA DGX Spark Enterprise Manageability": "借助 NVIDIA DGX Spark 企业可管理性为大规模 AI 基础设施提供生命周期控制",
+  "Model Quantization: Turn FP8 Checkpoints into High-Performance Inference Engines with NVIDIA TensorRT": "模型量化：利用 NVIDIA TensorRT 将 FP8 检查点转变为高性能推理引擎",
+  "Claude Fable 5 is generally available for GitHub Copilot": "《克劳德寓言 5》现已正式在 GitHub Copilot 上发布"
 }
