@@ -17615,5 +17615,7 @@
   "DiffusionGemma: 4x faster text generation": "DiffusionGemma：文本生成速度提高 4 倍",
   "Run DiffusionGemma on NVIDIA for Developer-Ready, High-Throughput Text Generation": "在 NVIDIA 上运行 DiffusionGemma，以实现开发人员就绪的高吞吐量文本生成",
   "Give GitHub Copilot CLI real code intelligence with language servers": "通过语言服务器为 GitHub Copilot CLI 提供真正的代码智能",
-  "Enterprises can now create up to 500 cost centers": "企业现在最多可以创建 500 个成本中心"
+  "Enterprises can now create up to 500 cost centers": "企业现在最多可以创建 500 个成本中心",
+  "DiffusionGemma": "广播杰玛",
+  "PRC-linked influence operations are targeting AI debates in the US": "与中国相关的影响力行动瞄准了美国的人工智能辩论"
 }
