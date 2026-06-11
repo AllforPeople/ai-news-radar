@@ -17626,5 +17626,11 @@
   "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude": "人类撤回可能“破坏”人工智能研究人员的政策",
   "Supporting Europe’s work in ensuring a trustworthy AI ecosystem": "支持欧洲确保值得信赖的人工智能生态系统的工作",
   "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP": "PyTorch 中的分析（第 2 部分）：从 nn.Linear 到融合 MLP",
-  "Introducing Claude Corps": "克劳德军团简介"
+  "Introducing Claude Corps": "克劳德军团简介",
+  "Copilot CLI: Configure everything from one place with /settings": "Copilot CLI：使用 /settings 从一处配置所有内容",
+  "GitHub Agentic Workflows is now in public preview": "GitHub Agentic Workflows 现已推出公共预览版",
+  "Making secret scanning more trustworthy: Reducing false positives at scale": "让秘密扫描更值得信赖：大规模减少误报",
+  "Agentic workflows no longer need a personal access token": "代理工作流程不再需要个人访问令牌",
+  "OpenAI to acquire Ona": "OpenAI 收购 Ona",
+  "BBVA puts AI at the core of banking with OpenAI": "BBVA 通过 OpenAI 将人工智能置于银行业的核心"
 }
