@@ -17645,5 +17645,8 @@
   "GitHub Enterprise Server 3.21 is now generally available": "GitHub Enterprise Server 3.21 现已全面发布",
   "Apple’s Camera Chief Thinks AI Can Give You Superpowers": "苹果相机主管认为人工智能可以赋予你超能力",
   "You Probably Won’t Get Rich Off the SpaceX IPO": "你可能不会从 SpaceX IPO 中致富",
-  "How Preply combines AI and human tutors to personalize learning": "Preply 如何结合人工智能和真人导师来实现个性化学习"
+  "How Preply combines AI and human tutors to personalize learning": "Preply 如何结合人工智能和真人导师来实现个性化学习",
+  "GitHub Actions: Minimum version enforcement timeline for self-hosted runners": "GitHub Actions：自托管运行程序的最低版本执行时间表",
+  "olmo-eval: An evaluation workbench for the model development loop": "olmo-eval：模型开发循环的评估工作台",
+  "Deploy Long-Context Reasoning and Agentic Workflows with MiniMax M3 on NVIDIA Accelerated Infrastructure": "在 NVIDIA 加速基础设施上使用 MiniMax M3 部署长上下文推理和代理工作流程"
 }
