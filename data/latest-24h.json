@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T10:27:09.144255Z",
+  "generated_at": "2026-06-14T12:25:01.437007Z",
   "window_hours": 24,
   "total_items": 1,
   "total_items_ai_raw": 1,
@@ -7,7 +7,7 @@
   "total_items_all_mode": 5,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 47689,
+  "archive_total": 47300,
   "site_count": 2,
   "source_count": 1,
   "site_stats": [
@@ -34,7 +34,7 @@
       "url": "https://www.infoq.cn/article/FuhAEYbk8T0b0GQZyq4c",
       "published_at": "2026-06-14T10:00:00Z",
       "first_seen_at": "2026-06-14T06:47:54.455483Z",
-      "last_seen_at": "2026-06-14T10:27:09.144255Z",
+      "last_seen_at": "2026-06-14T12:25:01.437007Z",
       "ai_is_related": true,
       "ai_score": 0.79,
       "ai_label": "model_release",
@@ -61,7 +61,7 @@
       "url": "https://www.infoq.cn/article/FuhAEYbk8T0b0GQZyq4c",
       "published_at": "2026-06-14T10:00:00Z",
       "first_seen_at": "2026-06-14T06:47:54.455483Z",
-      "last_seen_at": "2026-06-14T10:27:09.144255Z",
+      "last_seen_at": "2026-06-14T12:25:01.437007Z",
       "ai_is_related": true,
       "ai_score": 0.79,
       "ai_label": "model_release",
