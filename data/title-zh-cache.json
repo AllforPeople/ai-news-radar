@@ -17688,5 +17688,7 @@
   "GitHub Models is no longer available to new customers": "GitHub Models 不再向新客户提供",
   "Predicting model behavior before release by simulating deployment": "通过模拟部署来预测发布前的模型行为",
   "Building AI Agents for AR Glasses and XR Devices with NVIDIA XR AI": "使用 NVIDIA XR AI 为 AR 眼镜和 XR 设备构建 AI 代理",
-  "Unlocking UK house-building with AI-accelerated planning": "通过人工智能加速规划解锁英国房屋建设"
+  "Unlocking UK house-building with AI-accelerated planning": "通过人工智能加速规划解锁英国房屋建设",
+  "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot": "从 Hugging Face Hub 到 Strands Agents 和 LeRobot 的机器人硬件",
+  "GLM-5.2: Built for Long-Horizon Tasks": "GLM-5.2：专为长期任务而设计"
 }
