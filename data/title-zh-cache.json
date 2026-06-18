@@ -17716,5 +17716,11 @@
   "Safer pull_request_target defaults for GitHub Actions checkout": "GitHub Actions 签出的默认 pull_request_target 更安全",
   "Using AI to help physicians diagnose rare genetic diseases affecting children": "使用人工智能帮助医生诊断影响儿童的罕见遗传病",
   "Beyond LoRA: Can you beat the most popular fine-tuning technique?": "超越LoRA：你能打败最流行的微调技术吗？",
-  "Is it agentic enough? Benchmarking open models on your own tooling": "是否足够代理？在您自己的工具上对开放模型进行基准测试"
+  "Is it agentic enough? Benchmarking open models on your own tooling": "是否足够代理？在您自己的工具上对开放模型进行基准测试",
+  "MosaicLeaks: Can your research agent keep a secret?": "MosaicLeaks：你的研究代理人能保守秘密吗？",
+  "Copilot-authored pull requests now included in author searches": "Copilot 创作的拉取请求现已包含在作者搜索中",
+  "Repository switcher generally available in global navigation": "存储库切换器在全局导航中普遍可用",
+  "3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers": "3 名亚马逊员工表示，他们因公开谈论数据中心而受到调查",
+  "Actions: Build custom images from custom images": "操作：从自定义图像构建自定义图像",
+  "Improving health intelligence in ChatGPT": "提高 ChatGPT 中的健康智能"
 }
