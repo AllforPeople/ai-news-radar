@@ -17712,5 +17712,9 @@
   "GLM-5.2 is probably the most powerful text-only open weights LLM": "GLM-5.2 可能是最强大的纯文本开放权重 LLM",
   "The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the Tech Is Flawed": "英国将扫描寻求庇护者的脸部进行年龄检查——尽管知道这项技术存在缺陷",
   "Codex CLI 0.141.0": "法典 CLI 0.141.0",
-  "Generated release notes credit you for Copilot pull requests": "生成的发行说明归功于您的 Copilot 拉取请求"
+  "Generated release notes credit you for Copilot pull requests": "生成的发行说明归功于您的 Copilot 拉取请求",
+  "Safer pull_request_target defaults for GitHub Actions checkout": "GitHub Actions 签出的默认 pull_request_target 更安全",
+  "Using AI to help physicians diagnose rare genetic diseases affecting children": "使用人工智能帮助医生诊断影响儿童的罕见遗传病",
+  "Beyond LoRA: Can you beat the most popular fine-tuning technique?": "超越LoRA：你能打败最流行的微调技术吗？",
+  "Is it agentic enough? Benchmarking open models on your own tooling": "是否足够代理？在您自己的工具上对开放模型进行基准测试"
 }
