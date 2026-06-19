@@ -17732,5 +17732,7 @@
   "How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members": "与彼得泰尔相关的对话俱乐部如何秘密对其成员进行排名",
   "The White House Is Making Up Its Rules for AI in Real Time": "白宫正在实时制定人工智能规则",
   "Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues": "检测重复问题 – 公共预览版和问题字段 MCP 对 GitHub 问题的支持",
-  "Upcoming deprecation of Opus 4.6 (fast)": "Opus 4.6 即将弃用（快速）"
+  "Upcoming deprecation of Opus 4.6 (fast)": "Opus 4.6 即将弃用（快速）",
+  "AI credits consumed per user now in the Copilot usage metrics API": "现在 Copilot 使用指标 API 中每个用户消耗的 AI 积分",
+  "How we built an internal data analytics agent": "我们如何构建内部数据分析代理"
 }
