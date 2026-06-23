@@ -17756,5 +17756,8 @@
   "How Telcos Build Autonomous Networks with Agentic AI": "电信公司如何利用代理人工智能构建自治网络",
   "How Omio is building the future of conversational travel": "Omio 如何打造对话式旅行的未来",
   "Shipping huggingface_hub every week with AI, open tools, and a human in the loop": "每周通过 AI、开放工具和人员参与交付 Huggingface_hub",
-  "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness": "使用 CUGA 构建真正的代理应用程序：轻量级工具上的两打工作示例"
+  "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness": "使用 CUGA 构建真正的代理应用程序：轻量级工具上的两打工作示例",
+  "I automated my job (and it made me a better leader)": "我自动化了我的工作（这让我成为了更好的领导者）",
+  "Deprecation of Python 3.9 for Dependabot": "Dependabot 弃用 Python 3.9",
+  "Boost Inference Performance up to 15x on NVIDIA Blackwell Using DFlash Speculative Decoding": "使用 DFlash 推测解码将 NVIDIA Blackwell 上的推理性能提升高达 15 倍"
 }
