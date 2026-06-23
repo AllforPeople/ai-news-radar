@@ -17750,5 +17750,7 @@
   "Daybreak: Tools for securing every organization in the world": "Daybreak：保护世界上每个组织的工具",
   "Codex-maxxing for long-running work": "Codex-maxxing 适用于长时间运行的工作",
   "Meta Pauses Employee-Tracking Program Following Internal Data Leak": "内部数据泄露后，Meta 暂停员工追踪计划",
-  "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program": "Meta 从其有争议的员工跟踪计划中公开了内部数据"
+  "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program": "Meta 从其有争议的员工跟踪计划中公开了内部数据",
+  "Prompt Injection as Role Confusion": "角色混淆导致提示注射",
+  "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code": "使用 Claude Code 移植 Moebius 0.2B 图像修复模型以在浏览器中运行"
 }
