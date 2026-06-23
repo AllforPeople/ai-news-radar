@@ -17755,5 +17755,6 @@
   "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code": "使用 Claude Code 移植 Moebius 0.2B 图像修复模型以在浏览器中运行",
   "How Telcos Build Autonomous Networks with Agentic AI": "电信公司如何利用代理人工智能构建自治网络",
   "How Omio is building the future of conversational travel": "Omio 如何打造对话式旅行的未来",
-  "Shipping huggingface_hub every week with AI, open tools, and a human in the loop": "每周通过 AI、开放工具和人员参与交付 Huggingface_hub"
+  "Shipping huggingface_hub every week with AI, open tools, and a human in the loop": "每周通过 AI、开放工具和人员参与交付 Huggingface_hub",
+  "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness": "使用 CUGA 构建真正的代理应用程序：轻量级工具上的两打工作示例"
 }
