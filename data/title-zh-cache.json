@@ -17771,5 +17771,9 @@
   "Introducing Claude Tag": "克劳德·塔格介绍",
   "Qualcomm Buys Buzzy Chip Startup Modular for Nearly $4 Billion": "高通斥资近 40 亿美元收购 Buzzy Chip Startup Modular",
   "OpenAI and Broadcom unveil LLM-optimized inference chip": "OpenAI 和 Broadcom 推出 LLM 优化的推理芯片",
-  "The Trump White House Is Over Anthropic CEO Dario Amodei": "特朗普的白宫已经结束了人类首席执行官达里奥·阿莫代 (Dario Amodei)"
+  "The Trump White House Is Over Anthropic CEO Dario Amodei": "特朗普的白宫已经结束了人类首席执行官达里奥·阿莫代 (Dario Amodei)",
+  "Introducing computer use in Gemini 3.5 Flash": "Gemini 3.5 Flash 中电脑使用介绍",
+  "Changes to model selection for Free and Student plans": "免费和学生计划的型号选择发生变化",
+  "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel": "使用 NVIDIA NeMo AutoModel 加速 Transformer 微调",
+  "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World": "FFASR 排行榜简介：现实世界中的 ASR 基准测试"
 }
