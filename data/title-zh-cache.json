@@ -17788,5 +17788,8 @@
   "Which tokens does a hybrid model predict better?": "混合模型可以更好地预测哪些标记？",
   "npm adds preventive account protection for high-impact accounts": "npm 为高影响力帐户添加了预防性帐户保护",
   "Our latest Google Finance upgrades, including a new app": "我们最新的 Google 财经升级，包括新应用",
-  "Red Hat Enterprise Linux runner images are now in public preview": "Red Hat Enterprise Linux 运行程序镜像现已推出公共预览版"
+  "Red Hat Enterprise Linux runner images are now in public preview": "Red Hat Enterprise Linux 运行程序镜像现已推出公共预览版",
+  "Run DiffusionGemma on NVIDIA for Developer-Ready, High-Throughput Text Generation": "在 NVIDIA 上运行 DiffusionGemma，以实现开发人员就绪的高吞吐量文本生成",
+  "Saved views for repository issues – Public Preview and adjustable row heights in projects": "存储库问题的保存视图 - 项目中的公共预览和可调整行高",
+  "Actions steps can now be run in parallel": "现在可以并行运行操作步骤"
 }
