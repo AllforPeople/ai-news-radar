@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-27T18:45:16.135782Z",
+  "generated_at": "2026-06-27T20:10:42.741819Z",
   "window_hours": 24,
-  "total_items": 4,
-  "total_items_ai_raw": 4,
-  "total_items_raw": 9,
-  "total_items_all_mode": 9,
+  "total_items": 3,
+  "total_items_ai_raw": 3,
+  "total_items_raw": 7,
+  "total_items_all_mode": 7,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
   "archive_total": 2962,
   "site_count": 2,
-  "source_count": 4,
+  "source_count": 3,
   "site_stats": [
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
-      "count": 3,
-      "raw_count": 8
+      "count": 2,
+      "raw_count": 6
     },
     {
       "site_id": "official_ai",
@@ -34,7 +34,7 @@
       "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos",
       "published_at": "2026-06-27T00:26:14Z",
       "first_seen_at": "2026-06-27T01:28:41.295564Z",
-      "last_seen_at": "2026-06-27T18:45:16.135782Z",
+      "last_seen_at": "2026-06-27T20:10:42.741819Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "model_release",
@@ -57,7 +57,7 @@
       "url": "https://www.infoq.cn/video/2hp32gR1vuPJuL0ISlB3",
       "published_at": "2026-06-26T22:21:52Z",
       "first_seen_at": "2026-06-26T16:20:26.762959Z",
-      "last_seen_at": "2026-06-27T18:45:16.135782Z",
+      "last_seen_at": "2026-06-27T20:10:42.741819Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "agent_workflow",
@@ -78,7 +78,7 @@
       "url": "https://github.blog/changelog/2026-06-26-track-total-merges-by-adoption-phase-in-enterprise-and-organization-reports",
       "published_at": "2026-06-26T20:55:03Z",
       "first_seen_at": "2026-06-26T21:48:16.564134Z",
-      "last_seen_at": "2026-06-27T18:45:16.135782Z",
+      "last_seen_at": "2026-06-27T20:10:42.741819Z",
       "ai_is_related": true,
       "ai_score": 0.87,
       "ai_label": "ai_general",
@@ -89,30 +89,6 @@
       "title_en": "Track total merges by adoption phase in enterprise and organization reports",
       "title_zh": "在企业和组织报告中按采用阶段跟踪合并总数",
       "title_bilingual": "在企业和组织报告中按采用阶段跟踪合并总数 / Track total merges by adoption phase in enterprise and organization reports"
-    },
-    {
-      "id": "d5b6f8a4410d78e75f2cff20cb67d4390ff11feb",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "NVIDIA Generative AI Blog",
-      "title": "Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure",
-      "url": "https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure",
-      "published_at": "2026-06-26T19:00:45Z",
-      "first_seen_at": "2026-06-26T20:18:15.053658Z",
-      "last_seen_at": "2026-06-27T18:45:16.135782Z",
-      "ai_is_related": true,
-      "ai_score": 0.73,
-      "ai_label": "developer_tool",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "cloud",
-        "developer"
-      ],
-      "ai_noise": [],
-      "title_original": "Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure",
-      "title_en": "Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure",
-      "title_zh": "在 Oracle 云基础设施上部署生产就绪的 NVIDIA AI-Q 蓝图",
-      "title_bilingual": "在 Oracle 云基础设施上部署生产就绪的 NVIDIA AI-Q 蓝图 / Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure"
     }
   ],
   "items_ai": [
@@ -125,7 +101,7 @@
       "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos",
       "published_at": "2026-06-27T00:26:14Z",
       "first_seen_at": "2026-06-27T01:28:41.295564Z",
-      "last_seen_at": "2026-06-27T18:45:16.135782Z",
+      "last_seen_at": "2026-06-27T20:10:42.741819Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "model_release",
@@ -148,7 +124,7 @@
       "url": "https://www.infoq.cn/video/2hp32gR1vuPJuL0ISlB3",
       "published_at": "2026-06-26T22:21:52Z",
       "first_seen_at": "2026-06-26T16:20:26.762959Z",
-      "last_seen_at": "2026-06-27T18:45:16.135782Z",
+      "last_seen_at": "2026-06-27T20:10:42.741819Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "agent_workflow",
@@ -169,7 +145,7 @@
       "url": "https://github.blog/changelog/2026-06-26-track-total-merges-by-adoption-phase-in-enterprise-and-organization-reports",
       "published_at": "2026-06-26T20:55:03Z",
       "first_seen_at": "2026-06-26T21:48:16.564134Z",
-      "last_seen_at": "2026-06-27T18:45:16.135782Z",
+      "last_seen_at": "2026-06-27T20:10:42.741819Z",
       "ai_is_related": true,
       "ai_score": 0.87,
       "ai_label": "ai_general",
@@ -180,30 +156,6 @@
       "title_en": "Track total merges by adoption phase in enterprise and organization reports",
       "title_zh": "在企业和组织报告中按采用阶段跟踪合并总数",
       "title_bilingual": "在企业和组织报告中按采用阶段跟踪合并总数 / Track total merges by adoption phase in enterprise and organization reports"
-    },
-    {
-      "id": "d5b6f8a4410d78e75f2cff20cb67d4390ff11feb",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "NVIDIA Generative AI Blog",
-      "title": "Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure",
-      "url": "https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure",
-      "published_at": "2026-06-26T19:00:45Z",
-      "first_seen_at": "2026-06-26T20:18:15.053658Z",
-      "last_seen_at": "2026-06-27T18:45:16.135782Z",
-      "ai_is_related": true,
-      "ai_score": 0.73,
-      "ai_label": "developer_tool",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "cloud",
-        "developer"
-      ],
-      "ai_noise": [],
-      "title_original": "Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure",
-      "title_en": "Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure",
-      "title_zh": "在 Oracle 云基础设施上部署生产就绪的 NVIDIA AI-Q 蓝图",
-      "title_bilingual": "在 Oracle 云基础设施上部署生产就绪的 NVIDIA AI-Q 蓝图 / Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure"
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
