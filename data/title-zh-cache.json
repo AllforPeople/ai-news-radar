@@ -17824,5 +17824,6 @@
   "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding": "Ornith-1.0：用于代理编码的自支架法学硕士",
   "Restrict issue creation to collaborators only": "仅限协作者创建问题",
   "Ask an AI expert: What exactly is the full stack?": "问AI专家：全栈到底是什么？",
-  "How to Govern Autonomous Agents in Enterprise AI Factories": "如何管理企业人工智能工厂中的自治代理"
+  "How to Govern Autonomous Agents in Enterprise AI Factories": "如何管理企业人工智能工厂中的自治代理",
+  "DiScoFormer: One transformer for density and score, across distributions": "DiScoFormer：一种跨分布的密度和分数转换器"
 }
