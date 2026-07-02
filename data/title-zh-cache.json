@@ -17876,5 +17876,9 @@
   "Issue fields are now generally available": "问题字段现已普遍可用",
   "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts": "使用DSPy评估和改进Datasette Agent的SQL系统提示",
   "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?": "Cursor 能否继续作为 SpaceX 内部 OpenAI 和 Anthropic 模型的平台？",
-  "Cost centers now support AI credit pools": "成本中心现在支持人工智能信用池"
+  "Cost centers now support AI credit pools": "成本中心现在支持人工智能信用池",
+  "Hardware-Rooted AI Security That Won’t Slow You Down": "植根于硬件的人工智能安全不会让您慢下来",
+  "Copilot CLI no longer needs a personal access token in GitHub Actions": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌",
+  "llm-coding-agent 0.1a0": "llm-编码代理 0.1a0",
+  "Copilot agent session streaming is now in public preview": "Copilot 座席会话流现已提供公共预览版"
 }
