@@ -17880,5 +17880,7 @@
   "Hardware-Rooted AI Security That Won’t Slow You Down": "植根于硬件的人工智能安全不会让您慢下来",
   "Copilot CLI no longer needs a personal access token in GitHub Actions": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌",
   "llm-coding-agent 0.1a0": "llm-编码代理 0.1a0",
-  "Copilot agent session streaming is now in public preview": "Copilot 座席会话流现已提供公共预览版"
+  "Copilot agent session streaming is now in public preview": "Copilot 座席会话流现已提供公共预览版",
+  "Improved accuracy and coverage in Copilot usage metrics reports": "提高了 Copilot 使用指标报告的准确性和覆盖范围",
+  "Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用"
 }
