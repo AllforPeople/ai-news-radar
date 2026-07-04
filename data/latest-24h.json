@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-04T21:01:38.148675Z",
+  "generated_at": "2026-07-04T22:28:51.916031Z",
   "window_hours": 24,
-  "total_items": 1,
-  "total_items_ai_raw": 1,
-  "total_items_raw": 3,
-  "total_items_all_mode": 3,
+  "total_items": 0,
+  "total_items_ai_raw": 0,
+  "total_items_raw": 1,
+  "total_items_all_mode": 1,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 2898,
+  "archive_total": 2897,
   "site_count": 2,
-  "source_count": 1,
+  "source_count": 0,
   "site_stats": [
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
-      "count": 1,
-      "raw_count": 3
+      "count": 0,
+      "raw_count": 1
     },
     {
       "site_id": "official_ai",
@@ -24,51 +24,7 @@
       "raw_count": 0
     }
   ],
-  "items": [
-    {
-      "id": "b5537a217db6fd2a0d68a0c1a96a03abc964ca32",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "Simon Willison",
-      "title": "Open Source AI Gap Map",
-      "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map",
-      "published_at": "2026-07-03T22:04:31Z",
-      "first_seen_at": "2026-07-03T22:34:39.586639Z",
-      "last_seen_at": "2026-07-04T21:01:38.148675Z",
-      "ai_is_related": true,
-      "ai_score": 0.67,
-      "ai_label": "ai_general",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [],
-      "ai_noise": [],
-      "title_original": "Open Source AI Gap Map",
-      "title_en": "Open Source AI Gap Map",
-      "title_zh": "开源人工智能差距图",
-      "title_bilingual": "开源人工智能差距图 / Open Source AI Gap Map"
-    }
-  ],
-  "items_ai": [
-    {
-      "id": "b5537a217db6fd2a0d68a0c1a96a03abc964ca32",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "Simon Willison",
-      "title": "Open Source AI Gap Map",
-      "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map",
-      "published_at": "2026-07-03T22:04:31Z",
-      "first_seen_at": "2026-07-03T22:34:39.586639Z",
-      "last_seen_at": "2026-07-04T21:01:38.148675Z",
-      "ai_is_related": true,
-      "ai_score": 0.67,
-      "ai_label": "ai_general",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [],
-      "ai_noise": [],
-      "title_original": "Open Source AI Gap Map",
-      "title_en": "Open Source AI Gap Map",
-      "title_zh": "开源人工智能差距图",
-      "title_bilingual": "开源人工智能差距图 / Open Source AI Gap Map"
-    }
-  ],
+  "items": [],
+  "items_ai": [],
   "all_mode_data_url": "data/latest-24h-all.json"
 }
