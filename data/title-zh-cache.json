@@ -17898,5 +17898,10 @@
   "Restrict who can dismiss reviews in rulesets": "限制谁可以驳回规则集中的评论",
   "GitHub Copilot app available to all": "GitHub Copilot 应用程序可供所有人使用",
   "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads": "NVIDIA Vera CPU 提高 AI 工厂吞吐量以加速代理工作负载",
-  "Copilot Billing Preview app will be retired on August 3": "Copilot Billing Preview 应用程序将于 8 月 3 日停用"
+  "Copilot Billing Preview app will be retired on August 3": "Copilot Billing Preview 应用程序将于 8 月 3 日停用",
+  "Building an Analysis AI Agent for Industrial Alarm Management with NVIDIA Nemotron": "使用 NVIDIA Nemotron 构建用于工业警报管理的分析 AI 代理",
+  "Secret scanning extended metadata and multipart validation": "秘密扫描扩展元数据和多部分验证",
+  "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more": "在 Gemini API 中扩展托管代理：后台任务、远程 MCP 等",
+  "Australian Payments Plus moves faster with ChatGPT and Codex": "Australian Payment Plus 借助 ChatGPT 和 Codex 加快步伐",
+  "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot": "在任何云上运行 AI 工作负载，存储在 Hugging Face 上：使用 SkyPilot 实现零出口存储"
 }
