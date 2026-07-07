@@ -17903,5 +17903,6 @@
   "Secret scanning extended metadata and multipart validation": "秘密扫描扩展元数据和多部分验证",
   "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more": "在 Gemini API 中扩展托管代理：后台任务、远程 MCP 等",
   "Australian Payments Plus moves faster with ChatGPT and Codex": "Australian Payment Plus 借助 ChatGPT 和 Codex 加快步伐",
-  "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot": "在任何云上运行 AI 工作负载，存储在 Hugging Face 上：使用 SkyPilot 实现零出口存储"
+  "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot": "在任何云上运行 AI 工作负载，存储在 Hugging Face 上：使用 SkyPilot 实现零出口存储",
+  "Per-user budgets for cost centers in the billing UI": "计费 UI 中成本中心的每用户预算"
 }
