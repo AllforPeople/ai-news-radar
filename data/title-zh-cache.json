@@ -17921,5 +17921,7 @@
   "Helping K–12 educators build practical AI skills": "帮助 K-12 教育工作者培养实用的人工智能技能",
   "GitHub Mobile: Fix merge conflicts with Copilot cloud agent": "GitHub Mobile：修复与 Copilot 云代理的合并冲突",
   "GitHub Mobile: Live notifications for Copilot CLI sessions": "GitHub Mobile：Copilot CLI 会话的实时通知",
-  "Introducing GPT-Live": "GPT-Live 简介"
+  "Introducing GPT-Live": "GPT-Live 简介",
+  "setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes": "setup-java v5.5.0：签名验证、Kona JDK 和 Maven 修复",
+  "Codex as agent provider and agentic enhancements in JetBrains IDEs": "Codex 作为代理提供商以及 JetBrains IDE 中的代理增强功能"
 }
