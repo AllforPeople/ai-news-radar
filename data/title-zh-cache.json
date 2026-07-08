@@ -17914,5 +17914,12 @@
   "Pickup Artist Mystery Has an AI Girlfriend": "搭讪达人之谜有一个人工智能女友",
   "This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster": "这位 DeepMind 前高管认为人工智能军备竞赛可能会以灾难告终",
   "Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance": "为 NVIDIA Nemotron 3 Ultra 创建 LangChain Deep Agents Harness 配置文件以提高性能",
-  "Native-speed vLLM transformers modeling backend": "本机速度 vLLM 变压器建模后端"
+  "Native-speed vLLM transformers modeling backend": "本机速度 vLLM 变压器建模后端",
+  "Data for Agents": "代理商数据",
+  "How GitHub Copilot enables zero DNS configuration for GitHub Pages": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置",
+  "npm install-time security and GAT bypass2fa deprecation": "npm 安装时安全性和 GAT绕过2fa 弃用",
+  "Helping K–12 educators build practical AI skills": "帮助 K-12 教育工作者培养实用的人工智能技能",
+  "GitHub Mobile: Fix merge conflicts with Copilot cloud agent": "GitHub Mobile：修复与 Copilot 云代理的合并冲突",
+  "GitHub Mobile: Live notifications for Copilot CLI sessions": "GitHub Mobile：Copilot CLI 会话的实时通知",
+  "Introducing GPT-Live": "GPT-Live 简介"
 }
