@@ -17956,5 +17956,8 @@
   "Profiling in PyTorch (Part 3): Attention is all you profile": "PyTorch 中的分析（第 3 部分）：注意力就是您的分析",
   "A New Experiential Gallery Just Might Change Your Mind About AI Art": "一个新的体验式画廊可能会改变你对人工智能艺术的看法",
   "GitHub Mobile: Improved filters and sorting for Copilot sessions": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序",
-  "Accelerating End-to-End Co-Folding Performance with NVIDIA BioNeMo Agent Toolkit": "使用 NVIDIA BioNeMo Agent 工具包加速端到端共同折叠性能"
+  "Accelerating End-to-End Co-Folding Performance with NVIDIA BioNeMo Agent Toolkit": "使用 NVIDIA BioNeMo Agent 工具包加速端到端共同折叠性能",
+  "AI Model Co-Design: Hardware-Friendly LLM Design": "AI模型协同设计：硬件友好的LLM设计",
+  "Better tools made Copilot code review worse. Here’s how we actually improved it.": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。",
+  "New pull requests dashboard is now generally available": "新的拉取请求仪表板现已普遍可用"
 }
