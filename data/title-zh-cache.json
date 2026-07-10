@@ -17959,5 +17959,7 @@
   "Accelerating End-to-End Co-Folding Performance with NVIDIA BioNeMo Agent Toolkit": "使用 NVIDIA BioNeMo Agent 工具包加速端到端共同折叠性能",
   "AI Model Co-Design: Hardware-Friendly LLM Design": "AI模型协同设计：硬件友好的LLM设计",
   "Better tools made Copilot code review worse. Here’s how we actually improved it.": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。",
-  "New pull requests dashboard is now generally available": "新的拉取请求仪表板现已普遍可用"
+  "New pull requests dashboard is now generally available": "新的拉取请求仪表板现已普遍可用",
+  "Reducing High-Bandwidth Memory Bottlenecks in JAX-Based LLM Training with Host Offloading": "通过主机卸载减少基于 JAX 的 LLM 训练中的高带宽内存瓶颈",
+  "Per-user states for multi-user budgets in the REST API": "REST API 中多用户预算的每用户状态"
 }
