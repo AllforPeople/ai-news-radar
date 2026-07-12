@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T09:05:27.020867Z",
+  "generated_at": "2026-07-12T10:54:37.737855Z",
   "window_hours": 24,
   "total_items": 2,
   "total_items_ai_raw": 2,
@@ -7,9 +7,9 @@
   "total_items_all_mode": 4,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 2919,
+  "archive_total": 2917,
   "site_count": 2,
-  "source_count": 1,
+  "source_count": 2,
   "site_stats": [
     {
       "site_id": "opmlrss",
@@ -26,6 +26,27 @@
   ],
   "items": [
     {
+      "id": "19d261e887fabbb69468dab79fe410e4c0eac1b7",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "Wired AI",
+      "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+      "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides",
+      "published_at": "2026-07-12T10:00:00Z",
+      "first_seen_at": "2026-07-12T10:54:37.737855Z",
+      "last_seen_at": "2026-07-12T10:54:37.737855Z",
+      "ai_is_related": true,
+      "ai_score": 0.67,
+      "ai_label": "ai_general",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [],
+      "ai_noise": [],
+      "title_original": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+      "title_en": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+      "title_zh": "科学家的副业？利用人工智能和量子计算生成新肽",
+      "title_bilingual": "科学家的副业？利用人工智能和量子计算生成新肽 / Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides"
+    },
+    {
       "id": "ea55652d0c9fe35a3efde7d6e103abe94c8d5666",
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
@@ -34,7 +55,7 @@
       "url": "https://www.infoq.cn/article/Rzh9umgPl90MgGolBcWm",
       "published_at": "2026-07-11T17:00:00Z",
       "first_seen_at": "2026-07-11T09:59:41.724869Z",
-      "last_seen_at": "2026-07-12T09:05:27.020867Z",
+      "last_seen_at": "2026-07-12T10:54:37.737855Z",
       "ai_is_related": true,
       "ai_score": 0.74,
       "ai_label": "ai_product_update",
@@ -48,33 +69,31 @@
       "title_en": null,
       "title_zh": "苹果甩出41页PDF怒告OpenAI“偷师”其核心机密！网友：早知道就等印度开源了",
       "title_bilingual": "苹果甩出41页PDF怒告OpenAI“偷师”其核心机密！网友：早知道就等印度开源了"
-    },
-    {
-      "id": "8395cfe0e80e90733f1aa55b8912713a812455e8",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "InfoQ CN",
-      "title": "从 HAMi 到 HAMi-DRA：异构环境的算力资源管理实践｜AICon深圳",
-      "url": "https://www.infoq.cn/article/fRMquPuKMsj6zkyFmO6P",
-      "published_at": "2026-07-11T10:00:00Z",
-      "first_seen_at": "2026-07-11T02:55:13.597352Z",
-      "last_seen_at": "2026-07-12T09:05:27.020867Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "infra_compute",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "算力"
-      ],
-      "ai_noise": [],
-      "title_original": "从 HAMi 到 HAMi-DRA：异构环境的算力资源管理实践｜AICon深圳",
-      "title_en": null,
-      "title_zh": "从 HAMi 到 HAMi-DRA：异构环境的算力资源管理实践｜AICon深圳",
-      "title_bilingual": "从 HAMi 到 HAMi-DRA：异构环境的算力资源管理实践｜AICon深圳"
     }
   ],
   "items_ai": [
     {
+      "id": "19d261e887fabbb69468dab79fe410e4c0eac1b7",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "Wired AI",
+      "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+      "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides",
+      "published_at": "2026-07-12T10:00:00Z",
+      "first_seen_at": "2026-07-12T10:54:37.737855Z",
+      "last_seen_at": "2026-07-12T10:54:37.737855Z",
+      "ai_is_related": true,
+      "ai_score": 0.67,
+      "ai_label": "ai_general",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [],
+      "ai_noise": [],
+      "title_original": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+      "title_en": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+      "title_zh": "科学家的副业？利用人工智能和量子计算生成新肽",
+      "title_bilingual": "科学家的副业？利用人工智能和量子计算生成新肽 / Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides"
+    },
+    {
       "id": "ea55652d0c9fe35a3efde7d6e103abe94c8d5666",
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
@@ -83,7 +102,7 @@
       "url": "https://www.infoq.cn/article/Rzh9umgPl90MgGolBcWm",
       "published_at": "2026-07-11T17:00:00Z",
       "first_seen_at": "2026-07-11T09:59:41.724869Z",
-      "last_seen_at": "2026-07-12T09:05:27.020867Z",
+      "last_seen_at": "2026-07-12T10:54:37.737855Z",
       "ai_is_related": true,
       "ai_score": 0.74,
       "ai_label": "ai_product_update",
@@ -97,29 +116,6 @@
       "title_en": null,
       "title_zh": "苹果甩出41页PDF怒告OpenAI“偷师”其核心机密！网友：早知道就等印度开源了",
       "title_bilingual": "苹果甩出41页PDF怒告OpenAI“偷师”其核心机密！网友：早知道就等印度开源了"
-    },
-    {
-      "id": "8395cfe0e80e90733f1aa55b8912713a812455e8",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "InfoQ CN",
-      "title": "从 HAMi 到 HAMi-DRA：异构环境的算力资源管理实践｜AICon深圳",
-      "url": "https://www.infoq.cn/article/fRMquPuKMsj6zkyFmO6P",
-      "published_at": "2026-07-11T10:00:00Z",
-      "first_seen_at": "2026-07-11T02:55:13.597352Z",
-      "last_seen_at": "2026-07-12T09:05:27.020867Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "infra_compute",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "算力"
-      ],
-      "ai_noise": [],
-      "title_original": "从 HAMi 到 HAMi-DRA：异构环境的算力资源管理实践｜AICon深圳",
-      "title_en": null,
-      "title_zh": "从 HAMi 到 HAMi-DRA：异构环境的算力资源管理实践｜AICon深圳",
-      "title_bilingual": "从 HAMi 到 HAMi-DRA：异构环境的算力资源管理实践｜AICon深圳"
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
