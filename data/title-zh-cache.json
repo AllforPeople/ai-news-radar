@@ -17989,5 +17989,6 @@
   "How to manage AI investments in the agentic era": "代理时代如何管理人工智能投资",
   "Lessons From the Leaderboard: What 5,000+ Kagglers Taught Us About Improving AI Reasoning": "排行榜的经验教训：5,000 多名 Kaggler 教我们如何改进 AI 推理",
   "Code scanning shows AI security detections on pull requests": "代码扫描显示对拉取请求的人工智能安全检测",
-  "Manage secret scanning custom patterns via REST API": "通过 REST API 管理秘密扫描自定义模式"
+  "Manage secret scanning custom patterns via REST API": "通过 REST API 管理秘密扫描自定义模式",
+  "GitHub Copilot in Visual Studio — June update": "Visual Studio 中的 GitHub Copilot — 6 月更新"
 }
