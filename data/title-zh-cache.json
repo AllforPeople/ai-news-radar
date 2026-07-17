@@ -18032,5 +18032,8 @@
   "A scorecard for the AI age": "人工智能时代的记分卡",
   "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型",
   "LLM cliché highlighter": "LLM陈词滥调荧光笔",
-  "GitHub Mobile: Fix pull request comments with Copilot cloud agent": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论"
+  "GitHub Mobile: Fix pull request comments with Copilot cloud agent": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论",
+  "Repository-level GitHub Copilot usage metrics generally available": "存储库级 GitHub Copilot 使用指标普遍可用",
+  "GitHub Copilot app now available in the usage metrics API": "GitHub Copilot 应用程序现在可在使用指标 API 中使用",
+  "Copilot code review: Customization and configurability improvements": "Copilot 代码审查：定制和可配置性改进"
 }
