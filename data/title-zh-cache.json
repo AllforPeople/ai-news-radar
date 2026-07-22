@@ -18077,5 +18077,7 @@
   "3 Google updates from Galaxy Unpacked 2026": "Galaxy Unpacked 2026 的 3 项 Google 更新",
   "Introducing OpenAI Presence": "OpenAI 简介",
   "Upcoming GHES change impacting uploading support bundles": "即将到来的 GHES 变化会影响上传支持包",
-  "Advancing the next era of national science": "推进国家科学的下一个时代"
+  "Advancing the next era of national science": "推进国家科学的下一个时代",
+  "Make Long-Running NVIDIA TensorRT Engine Builds Observable and Cancelable in Python or C++": "使长时间运行的 NVIDIA TensorRT 引擎构建可在 Python 或 C++ 中观察和取消",
+  "New Copilot usage metrics impact dashboard": "新的 Copilot 使用指标影响仪表板"
 }
