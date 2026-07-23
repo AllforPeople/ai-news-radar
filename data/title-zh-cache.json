@@ -18093,5 +18093,7 @@
   "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending": "Meta 的新的让人感觉良好的人工智能广告使用了一首关于世界末日的歌曲",
   "Multi-select fields for Projects and Issues in public preview": "公共预览版中项目和问题的多选字段",
   "Agent automation controls in GitHub Issues in public preview": "公共预览版中的 GitHub 问题中的代理自动化控制",
-  "ChatGPT Voice and multi-folder projects 26.715": "ChatGPT 语音和多文件夹项目 26.715"
+  "ChatGPT Voice and multi-folder projects 26.715": "ChatGPT 语音和多文件夹项目 26.715",
+  "GitHub MCP Server supports the next MCP specification": "GitHub MCP 服务器支持下一个 MCP 规范",
+  "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查"
 }
