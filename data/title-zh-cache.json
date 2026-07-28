@@ -18117,5 +18117,6 @@
   "The harness is all you need (mostly)": "安全带就是您所需要的（大部分）",
   "Manage GitHub Copilot app access with a dedicated policy": "使用专用策略管理 GitHub Copilot 应用程序访问",
   "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置",
-  "An opinionated guide to which AI to use to do stuff": "关于使用哪种人工智能来做事的固执己见的指南"
+  "An opinionated guide to which AI to use to do stuff": "关于使用哪种人工智能来做事的固执己见的指南",
+  "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理"
 }
