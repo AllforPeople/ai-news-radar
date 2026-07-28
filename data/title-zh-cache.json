@@ -18129,5 +18129,7 @@
   "Gemini API Managed Agents: 3.6 Flash, hooks, and more": "Gemini API 托管代理：3.6 Flash、挂钩等",
   "LFM2.5-Encoders for Fast Long-Context Inference on CPU": "用于 CPU 上快速长上下文推理的 LFM2.5 编码器",
   "Dependabot alerts on malicious packages across more ecosystems": "Dependabot 针对更多生态系统中的恶意软件包发出警报",
-  "Scientific computing in the age of agentic AI": "代理人工智能时代的科学计算"
+  "Scientific computing in the age of agentic AI": "代理人工智能时代的科学计算",
+  "Developing Healthcare Robotics with GPU-Native Medical Physics Simulation": "使用 GPU 原生医学物理模拟开发医疗保健机器人",
+  "Grok 4.5 is now available in GitHub Copilot": "Grok 4.5 现已在 GitHub Copilot 中提供"
 }
