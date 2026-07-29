@@ -18135,5 +18135,6 @@
   "Discovering cryptographic weaknesses with Claude": "与 Claude 一起发现密码学弱点",
   "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face": "OpenAI 的 Rogue AI 代理被黑的不仅仅是拥抱脸",
   "GitHub Copilot app usage metrics now expand across report rollups": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展",
-  "npm publish-time malware scanning and dual-use metadata": "npm 发布时恶意软件扫描和双重用途元数据"
+  "npm publish-time malware scanning and dual-use metadata": "npm 发布时恶意软件扫描和双重用途元数据",
+  "Codex CLI 0.146.0": "法典 CLI 0.146.0"
 }
