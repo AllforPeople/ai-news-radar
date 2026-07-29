@@ -18132,5 +18132,8 @@
   "Scientific computing in the age of agentic AI": "代理人工智能时代的科学计算",
   "Developing Healthcare Robotics with GPU-Native Medical Physics Simulation": "使用 GPU 原生医学物理模拟开发医疗保健机器人",
   "Grok 4.5 is now available in GitHub Copilot": "Grok 4.5 现已在 GitHub Copilot 中提供",
-  "Discovering cryptographic weaknesses with Claude": "与 Claude 一起发现密码学弱点"
+  "Discovering cryptographic weaknesses with Claude": "与 Claude 一起发现密码学弱点",
+  "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face": "OpenAI 的 Rogue AI 代理被黑的不仅仅是拥抱脸",
+  "GitHub Copilot app usage metrics now expand across report rollups": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展",
+  "npm publish-time malware scanning and dual-use metadata": "npm 发布时恶意软件扫描和双重用途元数据"
 }
