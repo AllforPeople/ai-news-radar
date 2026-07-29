@@ -18144,5 +18144,8 @@
   "How to Self-Host a Validated AI Coding Assistant with NVIDIA NeMo Guardrails": "如何使用 NVIDIA NeMo Guardrails 自行托管经过验证的 AI 编码助手",
   "Default model enablement for Copilot Business and Enterprise": "Copilot Business 和 Enterprise 的默认模型启用",
   "Accelerating scientific discovery with ChatGPT for Academic Researchers": "通过 ChatGPT 为学术研究人员加速科学发现",
-  "Sign in with ChatGPT (beta)": "使用 ChatGPT（测试版）登录"
+  "Sign in with ChatGPT (beta)": "使用 ChatGPT（测试版）登录",
+  "AI Worming through Word": "通过 Word 进行 AI 蠕虫",
+  "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models": "一些前沿人工智能模型的越狱非常容易",
+  "Adding a custom MCP server to Claude and ChatGPT": "将自定义 MCP 服务器添加到 Claude 和 ChatGPT"
 }
