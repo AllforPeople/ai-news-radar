@@ -18205,5 +18205,6 @@
   "NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-Native Storage": "NVIDIA Vera 存储基准：AI 原生存储的更快加密、压缩、完整性检查和恢复",
   "Quoting David Crawshaw's prompt": "引用大卫·克劳肖的提示",
   "Triage role can bypass issue creation restrictions": "分类角色可以绕过问题创建限制",
-  "Migrate from GitLab to GitHub with GitHub Enterprise Importer": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub"
+  "Migrate from GitLab to GitHub with GitHub Enterprise Importer": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub",
+  "How we built a realtime system for responsive voice AI in six months": "我们如何在六个月内构建响应式语音 AI 实时系统"
 }
