@@ -18208,5 +18208,7 @@
   "Migrate from GitLab to GitHub with GitHub Enterprise Importer": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub",
   "How we built a realtime system for responsive voice AI in six months": "我们如何在六个月内构建响应式语音 AI 实时系统",
   "Did an AI Music App Just Snitch on the Song of the Summer?": "人工智能音乐应用程序刚刚偷听了夏日之歌吗？",
-  "Enterprise team specialization for managed settings": "托管设置的企业团队专业化"
+  "Enterprise team specialization for managed settings": "托管设置的企业团队专业化",
+  "Customize the reasoning level for Copilot cloud agent": "自定义 Copilot 云代理的推理级别",
+  "Trigger Copilot automations with comments": "通过评论触发 Copilot 自动化"
 }
