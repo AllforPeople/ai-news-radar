@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T22:32:58.055016Z",
+  "generated_at": "2026-08-08T23:32:27.567620Z",
   "window_hours": 24,
   "total_items": 5,
   "total_items_ai_raw": 5,
@@ -7,25 +7,48 @@
   "total_items_all_mode": 8,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 3049,
+  "archive_total": 3045,
   "site_count": 2,
-  "source_count": 4,
+  "source_count": 3,
   "site_stats": [
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
-      "count": 4,
-      "raw_count": 7
+      "count": 5,
+      "raw_count": 8
     },
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
-      "count": 1,
-      "raw_count": 1
+      "count": 0,
+      "raw_count": 0
     }
   ],
   "items": [
     {
+      "id": "8eebc4ddea1ef85bc7f855bf3e28f34da8a15992",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "Simon Willison",
+      "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
+      "published_at": "2026-08-08T22:36:03Z",
+      "first_seen_at": "2026-08-08T23:32:27.567620Z",
+      "last_seen_at": "2026-08-08T23:32:27.567620Z",
+      "ai_is_related": true,
+      "ai_score": 0.71,
+      "ai_label": "model_release",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "claude"
+      ],
+      "ai_noise": [],
+      "title_original": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "title_en": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "title_zh": "自动模式现在是 Claude Code Pro、Max 和 Team 计划中的默认模式",
+      "title_bilingual": "自动模式现在是 Claude Code Pro、Max 和 Team 计划中的默认模式 / Auto mode is now the default in Claude Code for Pro, Max, and Team plans"
+    },
+    {
       "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
@@ -34,7 +57,7 @@
       "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
       "published_at": "2026-08-08T14:06:41Z",
       "first_seen_at": "2026-08-08T14:34:58.199988Z",
-      "last_seen_at": "2026-08-08T22:32:58.055016Z",
+      "last_seen_at": "2026-08-08T23:32:27.567620Z",
       "ai_is_related": true,
       "ai_score": 0.75,
       "ai_label": "ai_product_update",
@@ -58,7 +81,7 @@
       "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs",
       "published_at": "2026-08-08T10:00:00Z",
       "first_seen_at": "2026-08-08T11:01:31.764596Z",
-      "last_seen_at": "2026-08-08T22:32:58.055016Z",
+      "last_seen_at": "2026-08-08T23:32:27.567620Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "model_release",
@@ -81,7 +104,7 @@
       "url": "https://www.infoq.cn/article/9C3eK9tJqDXbabbBy3aj",
       "published_at": "2026-08-08T08:00:00Z",
       "first_seen_at": "2026-08-08T01:52:25.444618Z",
-      "last_seen_at": "2026-08-08T22:32:58.055016Z",
+      "last_seen_at": "2026-08-08T23:32:27.567620Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "model_release",
@@ -104,7 +127,7 @@
       "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
       "published_at": "2026-08-07T23:55:58Z",
       "first_seen_at": "2026-08-08T01:52:25.444618Z",
-      "last_seen_at": "2026-08-08T22:32:58.055016Z",
+      "last_seen_at": "2026-08-08T23:32:27.567620Z",
       "ai_is_related": true,
       "ai_score": 0.75,
       "ai_label": "ai_product_update",
@@ -118,33 +141,33 @@
       "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
       "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
       "title_bilingual": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face"
-    },
-    {
-      "id": "cd9e9649a324d072f3aad152dc6e75c564295c1f",
-      "site_id": "official_ai",
-      "site_name": "Official AI Updates",
-      "source": "GitHub Changelog",
-      "title": "GitHub Copilot weekly releases — August 3",
-      "url": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
-      "published_at": "2026-08-07T23:16:02Z",
-      "first_seen_at": "2026-08-08T01:52:25.444618Z",
-      "last_seen_at": "2026-08-08T22:32:58.055016Z",
-      "ai_is_related": true,
-      "ai_score": 0.91,
-      "ai_label": "model_release",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "copilot"
-      ],
-      "ai_noise": [],
-      "title_original": "GitHub Copilot weekly releases — August 3",
-      "title_en": "GitHub Copilot weekly releases — August 3",
-      "title_zh": "GitHub Copilot 每周发布 — 8 月 3 日",
-      "title_bilingual": "GitHub Copilot 每周发布 — 8 月 3 日 / GitHub Copilot weekly releases — August 3"
     }
   ],
   "items_ai": [
     {
+      "id": "8eebc4ddea1ef85bc7f855bf3e28f34da8a15992",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "Simon Willison",
+      "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
+      "published_at": "2026-08-08T22:36:03Z",
+      "first_seen_at": "2026-08-08T23:32:27.567620Z",
+      "last_seen_at": "2026-08-08T23:32:27.567620Z",
+      "ai_is_related": true,
+      "ai_score": 0.71,
+      "ai_label": "model_release",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "claude"
+      ],
+      "ai_noise": [],
+      "title_original": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "title_en": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "title_zh": "自动模式现在是 Claude Code Pro、Max 和 Team 计划中的默认模式",
+      "title_bilingual": "自动模式现在是 Claude Code Pro、Max 和 Team 计划中的默认模式 / Auto mode is now the default in Claude Code for Pro, Max, and Team plans"
+    },
+    {
       "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
@@ -153,7 +176,7 @@
       "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
       "published_at": "2026-08-08T14:06:41Z",
       "first_seen_at": "2026-08-08T14:34:58.199988Z",
-      "last_seen_at": "2026-08-08T22:32:58.055016Z",
+      "last_seen_at": "2026-08-08T23:32:27.567620Z",
       "ai_is_related": true,
       "ai_score": 0.75,
       "ai_label": "ai_product_update",
@@ -177,7 +200,7 @@
       "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs",
       "published_at": "2026-08-08T10:00:00Z",
       "first_seen_at": "2026-08-08T11:01:31.764596Z",
-      "last_seen_at": "2026-08-08T22:32:58.055016Z",
+      "last_seen_at": "2026-08-08T23:32:27.567620Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "model_release",
@@ -200,7 +223,7 @@
       "url": "https://www.infoq.cn/article/9C3eK9tJqDXbabbBy3aj",
       "published_at": "2026-08-08T08:00:00Z",
       "first_seen_at": "2026-08-08T01:52:25.444618Z",
-      "last_seen_at": "2026-08-08T22:32:58.055016Z",
+      "last_seen_at": "2026-08-08T23:32:27.567620Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "model_release",
@@ -223,7 +246,7 @@
       "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
       "published_at": "2026-08-07T23:55:58Z",
       "first_seen_at": "2026-08-08T01:52:25.444618Z",
-      "last_seen_at": "2026-08-08T22:32:58.055016Z",
+      "last_seen_at": "2026-08-08T23:32:27.567620Z",
       "ai_is_related": true,
       "ai_score": 0.75,
       "ai_label": "ai_product_update",
@@ -237,29 +260,6 @@
       "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
       "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
       "title_bilingual": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face"
-    },
-    {
-      "id": "cd9e9649a324d072f3aad152dc6e75c564295c1f",
-      "site_id": "official_ai",
-      "site_name": "Official AI Updates",
-      "source": "GitHub Changelog",
-      "title": "GitHub Copilot weekly releases — August 3",
-      "url": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
-      "published_at": "2026-08-07T23:16:02Z",
-      "first_seen_at": "2026-08-08T01:52:25.444618Z",
-      "last_seen_at": "2026-08-08T22:32:58.055016Z",
-      "ai_is_related": true,
-      "ai_score": 0.91,
-      "ai_label": "model_release",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "copilot"
-      ],
-      "ai_noise": [],
-      "title_original": "GitHub Copilot weekly releases — August 3",
-      "title_en": "GitHub Copilot weekly releases — August 3",
-      "title_zh": "GitHub Copilot 每周发布 — 8 月 3 日",
-      "title_bilingual": "GitHub Copilot 每周发布 — 8 月 3 日 / GitHub Copilot weekly releases — August 3"
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
