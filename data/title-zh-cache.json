@@ -18313,5 +18313,7 @@
   "Upcoming deprecation of MAI-Code-1-Flash": "即将弃用 MAI-Code-1-Flash",
   "MAI-Code-1.1-Flash available in GitHub Copilot": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用",
   "Copilot memory and Ollama in GitHub Copilot for JetBrains": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama",
-  "Automatically migrate branch protection rules to repository rulesets": "自动将分支保护规则迁移到存储库规则集"
+  "Automatically migrate branch protection rules to repository rulesets": "自动将分支保护规则迁移到存储库规则集",
+  "GitHub Enterprise Server 3.22 release candidate": "GitHub Enterprise Server 3.22 候选版本",
+  "Daybreak models are now available on AWS": "Daybreak 模型现已在 AWS 上提供"
 }
