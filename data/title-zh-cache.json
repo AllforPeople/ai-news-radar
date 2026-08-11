@@ -18306,5 +18306,6 @@
   "Thinking of ACE? We Can Do It with Fewer Tokens": "想到 ACE 了吗？我们可以用更少的代币做到这一点",
   "NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents": "NVIDIA Nemotron 3.5 Lightning 为长时间运行的代理提供快速、准确的专业任务执行",
   "Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard": "使用 NVIDIA NeMo Switchyard 跨模型路由 AI 代理工作负载",
-  "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call": "缩放屏幕共享漏洞可让任何人在通话中接管其他设备"
+  "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call": "缩放屏幕共享漏洞可让任何人在通话中接管其他设备",
+  "Per-model token breakdown in the usage report": "使用报告中按型号的令牌细分"
 }
