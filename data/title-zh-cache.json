@@ -18311,5 +18311,7 @@
   "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.": "我们的研究型医疗人工智能系统 AMIE 在首次研究中展示了实时临床视频咨询功能。",
   "NVIDIA JetPack 7.2.1 Adds Agentic Video Skills and T3000 Emulation": "NVIDIA JetPack 7.2.1 添加代理视频技能和 T3000 仿真",
   "Upcoming deprecation of MAI-Code-1-Flash": "即将弃用 MAI-Code-1-Flash",
-  "MAI-Code-1.1-Flash available in GitHub Copilot": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用"
+  "MAI-Code-1.1-Flash available in GitHub Copilot": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用",
+  "Copilot memory and Ollama in GitHub Copilot for JetBrains": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama",
+  "Automatically migrate branch protection rules to repository rulesets": "自动将分支保护规则迁移到存储库规则集"
 }
