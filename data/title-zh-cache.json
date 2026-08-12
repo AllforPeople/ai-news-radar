@@ -18325,5 +18325,6 @@
   "Putting sign language AI into users’ hands": "将手语人工智能交到用户手中",
   "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能",
   "4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones": "Google 最新 Pixel 11 智能手机上的 4 个新相机技巧",
-  "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析"
+  "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析",
+  "Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72": "在 NVIDIA GB300 NVL72 上提供具有可配置推理功能的 2.4T 参数模型 Qwen3.8-2.4T-A95B"
 }
