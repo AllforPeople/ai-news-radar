@@ -18329,5 +18329,6 @@
   "Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72": "在 NVIDIA GB300 NVL72 上提供具有可配置推理功能的 2.4T 参数模型 Qwen3.8-2.4T-A95B",
   "Write your first prompt with the GitHub Copilot app": "使用 GitHub Copilot 应用编写您的第一个提示",
   "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please": "流氓人工智能代理并不邪恶。他们只是渴望取悦他人",
-  "Rule insights for organizations in public preview": "公共预览版中组织的规则见解"
+  "Rule insights for organizations in public preview": "公共预览版中组织的规则见解",
+  "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0"
 }
