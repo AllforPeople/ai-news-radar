@@ -18344,5 +18344,6 @@
   "The builder’s guide to GPT‑5.6": "GPT-5.6 构建者指南",
   "License data quality improvements": "许可数据质量改进",
   "Gemini 3.7 Flash is now available in GitHub Copilot": "Gemini 3.7 Flash 现已在 GitHub Copilot 中提供",
-  "Computer History": "计算机历史"
+  "Computer History": "计算机历史",
+  "Block users from comments in personal repositories": "阻止用户在个人存储库中发表评论"
 }
