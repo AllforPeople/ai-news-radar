@@ -18402,5 +18402,7 @@
   "Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents": "使用 CLI、技能和 AI 编码代理开发 NVIDIA Holoscan 应用程序",
   "Code scanning adds a mitigated alert dismissal reason": "代码扫描添加了缓解警报解除原因",
   "Separate GitHub Actions path for GitHub Code Quality": "针对 GitHub 代码质量的单独 GitHub Actions 路径",
-  "Track GitHub Code Quality enablement changes in the audit log": "在审核日志中跟踪 GitHub 代码质量启用更改"
+  "Track GitHub Code Quality enablement changes in the audit log": "在审核日志中跟踪 GitHub 代码质量启用更改",
+  "How Generative Recommenders Are Redefining RecSys at Scale": "生成推荐器如何大规模重新定义 RecSys",
+  "How ChatGPT Work helps Stampli move ideas to market": "ChatGPT 如何帮助 Stampli 将创意推向市场"
 }
