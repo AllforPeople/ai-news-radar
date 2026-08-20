@@ -18404,5 +18404,6 @@
   "Separate GitHub Actions path for GitHub Code Quality": "针对 GitHub 代码质量的单独 GitHub Actions 路径",
   "Track GitHub Code Quality enablement changes in the audit log": "在审核日志中跟踪 GitHub 代码质量启用更改",
   "How Generative Recommenders Are Redefining RecSys at Scale": "生成推荐器如何大规模重新定义 RecSys",
-  "How ChatGPT Work helps Stampli move ideas to market": "ChatGPT 如何帮助 Stampli 将创意推向市场"
+  "How ChatGPT Work helps Stampli move ideas to market": "ChatGPT 如何帮助 Stampli 将创意推向市场",
+  "Up to 3.2x Faster Inference with LFM2.5-DSpark": "使用 LFM2.5-DSpark 将推理速度提高 3.2 倍"
 }
