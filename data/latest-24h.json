@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-23T16:55:35.898950Z",
+  "generated_at": "2026-08-23T17:24:06.603402Z",
   "window_hours": 24,
-  "total_items": 3,
-  "total_items_ai_raw": 3,
-  "total_items_raw": 7,
-  "total_items_all_mode": 7,
+  "total_items": 2,
+  "total_items_ai_raw": 2,
+  "total_items_raw": 5,
+  "total_items_all_mode": 5,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 3039,
+  "archive_total": 3038,
   "site_count": 2,
-  "source_count": 2,
+  "source_count": 1,
   "site_stats": [
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
-      "count": 3,
-      "raw_count": 7
+      "count": 2,
+      "raw_count": 5
     },
     {
       "site_id": "official_ai",
@@ -34,7 +34,7 @@
       "url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO",
       "published_at": "2026-08-23T17:00:00Z",
       "first_seen_at": "2026-08-23T09:30:43.989439Z",
-      "last_seen_at": "2026-08-23T16:55:35.898950Z",
+      "last_seen_at": "2026-08-23T17:24:06.603402Z",
       "ai_is_related": true,
       "ai_score": 0.74,
       "ai_label": "agent_workflow",
@@ -58,7 +58,7 @@
       "url": "https://www.infoq.cn/article/9YicfQysexJdmx11xG4m",
       "published_at": "2026-08-23T14:09:00Z",
       "first_seen_at": "2026-08-23T06:48:19.639079Z",
-      "last_seen_at": "2026-08-23T16:55:35.898950Z",
+      "last_seen_at": "2026-08-23T17:24:06.603402Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -69,29 +69,6 @@
       "title_en": null,
       "title_zh": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
       "title_bilingual": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索"
-    },
-    {
-      "id": "757c11da405c2ca38e40a59e9fa4ddfee7092fe5",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "Simon Willison",
-      "title": "llm 0.33",
-      "url": "https://simonwillison.net/2026/Aug/22/llm",
-      "published_at": "2026-08-22T17:01:16Z",
-      "first_seen_at": "2026-08-22T17:47:48.110039Z",
-      "last_seen_at": "2026-08-23T16:55:35.898950Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "model_release",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "llm"
-      ],
-      "ai_noise": [],
-      "title_original": "llm 0.33",
-      "title_en": null,
-      "title_zh": null,
-      "title_bilingual": "llm 0.33"
     }
   ],
   "items_ai": [
@@ -104,7 +81,7 @@
       "url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO",
       "published_at": "2026-08-23T17:00:00Z",
       "first_seen_at": "2026-08-23T09:30:43.989439Z",
-      "last_seen_at": "2026-08-23T16:55:35.898950Z",
+      "last_seen_at": "2026-08-23T17:24:06.603402Z",
       "ai_is_related": true,
       "ai_score": 0.74,
       "ai_label": "agent_workflow",
@@ -128,7 +105,7 @@
       "url": "https://www.infoq.cn/article/9YicfQysexJdmx11xG4m",
       "published_at": "2026-08-23T14:09:00Z",
       "first_seen_at": "2026-08-23T06:48:19.639079Z",
-      "last_seen_at": "2026-08-23T16:55:35.898950Z",
+      "last_seen_at": "2026-08-23T17:24:06.603402Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -139,29 +116,6 @@
       "title_en": null,
       "title_zh": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
       "title_bilingual": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索"
-    },
-    {
-      "id": "757c11da405c2ca38e40a59e9fa4ddfee7092fe5",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "Simon Willison",
-      "title": "llm 0.33",
-      "url": "https://simonwillison.net/2026/Aug/22/llm",
-      "published_at": "2026-08-22T17:01:16Z",
-      "first_seen_at": "2026-08-22T17:47:48.110039Z",
-      "last_seen_at": "2026-08-23T16:55:35.898950Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "model_release",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "llm"
-      ],
-      "ai_noise": [],
-      "title_original": "llm 0.33",
-      "title_en": null,
-      "title_zh": null,
-      "title_bilingual": "llm 0.33"
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
