@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T13:55:41.441389Z",
+  "generated_at": "2026-08-30T17:59:34.433466Z",
   "window_hours": 24,
   "total_items": 1,
   "total_items_ai_raw": 1,
@@ -7,7 +7,7 @@
   "total_items_all_mode": 2,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 3023,
+  "archive_total": 3022,
   "site_count": 2,
   "source_count": 1,
   "site_stats": [
@@ -34,7 +34,7 @@
       "url": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored",
       "published_at": "2026-08-30T10:30:00Z",
       "first_seen_at": "2026-08-30T13:55:41.441389Z",
-      "last_seen_at": "2026-08-30T13:55:41.441389Z",
+      "last_seen_at": "2026-08-30T17:59:34.433466Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -57,7 +57,7 @@
       "url": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored",
       "published_at": "2026-08-30T10:30:00Z",
       "first_seen_at": "2026-08-30T13:55:41.441389Z",
-      "last_seen_at": "2026-08-30T13:55:41.441389Z",
+      "last_seen_at": "2026-08-30T17:59:34.433466Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
