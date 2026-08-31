@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-30T23:23:35.101218Z",
+  "generated_at": "2026-08-31T01:30:40.862142Z",
   "window_hours": 24,
-  "total_items": 1,
-  "total_items_ai_raw": 1,
+  "total_items": 2,
+  "total_items_ai_raw": 2,
   "total_items_raw": 2,
   "total_items_all_mode": 2,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 3018,
+  "archive_total": 3015,
   "site_count": 2,
-  "source_count": 1,
+  "source_count": 2,
   "site_stats": [
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
-      "count": 1,
+      "count": 2,
       "raw_count": 2
     },
     {
@@ -26,6 +26,29 @@
   ],
   "items": [
     {
+      "id": "cb7d9ad1b8aa649686bd67c6d8c04b3bc9986033",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "Simon Willison",
+      "title": "Understanding ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
+      "published_at": "2026-08-30T23:59:47Z",
+      "first_seen_at": "2026-08-31T01:30:40.862142Z",
+      "last_seen_at": "2026-08-31T01:30:40.862142Z",
+      "ai_is_related": true,
+      "ai_score": 0.71,
+      "ai_label": "model_release",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "gpt"
+      ],
+      "ai_noise": [],
+      "title_original": "Understanding ChatGPT Work",
+      "title_en": "Understanding ChatGPT Work",
+      "title_zh": null,
+      "title_bilingual": "Understanding ChatGPT Work"
+    },
+    {
       "id": "9e50267e5b152bdb66adb6326ff38cc287586cd4",
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
@@ -34,7 +57,7 @@
       "url": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored",
       "published_at": "2026-08-30T10:30:00Z",
       "first_seen_at": "2026-08-30T13:55:41.441389Z",
-      "last_seen_at": "2026-08-30T23:23:35.101218Z",
+      "last_seen_at": "2026-08-31T01:30:40.862142Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -49,6 +72,29 @@
   ],
   "items_ai": [
     {
+      "id": "cb7d9ad1b8aa649686bd67c6d8c04b3bc9986033",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "Simon Willison",
+      "title": "Understanding ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
+      "published_at": "2026-08-30T23:59:47Z",
+      "first_seen_at": "2026-08-31T01:30:40.862142Z",
+      "last_seen_at": "2026-08-31T01:30:40.862142Z",
+      "ai_is_related": true,
+      "ai_score": 0.71,
+      "ai_label": "model_release",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "gpt"
+      ],
+      "ai_noise": [],
+      "title_original": "Understanding ChatGPT Work",
+      "title_en": "Understanding ChatGPT Work",
+      "title_zh": null,
+      "title_bilingual": "Understanding ChatGPT Work"
+    },
+    {
       "id": "9e50267e5b152bdb66adb6326ff38cc287586cd4",
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
@@ -57,7 +103,7 @@
       "url": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored",
       "published_at": "2026-08-30T10:30:00Z",
       "first_seen_at": "2026-08-30T13:55:41.441389Z",
-      "last_seen_at": "2026-08-30T23:23:35.101218Z",
+      "last_seen_at": "2026-08-31T01:30:40.862142Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
