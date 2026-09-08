@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-08T17:21:45.115791Z",
+  "generated_at": "2026-09-08T20:08:11.671876Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-09-08",
-  "count_today": 6,
+  "count_today": 8,
   "updates_today": [
     {
       "date": "2026-09-08",
@@ -29,6 +29,16 @@
     },
     {
       "date": "2026-09-08",
+      "title": "作者利用 Grok Bot 的长期角色、共享文件和群聊协作功能，搭出了一个“情报→选题 Brief→写稿→事实审校→人工发布→数据复盘”的完整创作链路。如果你也想做自媒体，可以试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "《关于上下文工程的 100 个问题》从作者的真实异常切入，拆解了窗口堆满为何变笨、CLAUDE.md 为什么被忽略、低价跑法为何可能更费 token等关键问题。想把 Agent 从“偶尔好用”调到稳定协作，可以先把上下文这层看明白。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-08",
       "title": "GPT-6 玩转 macOS 上的Blender前需要哪些最基础的知识？作者这篇文章以金门大桥3D模型带你简单入门！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
@@ -38,7 +48,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 35,
   "updates_7d": [
     {
       "date": "2026-09-08",
@@ -58,6 +68,16 @@
     {
       "date": "2026-09-08",
       "title": "作者最近拿EasyInput 键盘做了一次尝试：从一份已有的 3D 结构文件出发，让 AI 操作 Blender，调整产品的外观表达、布置灯光和镜头，再把按键、旋钮和软件功能编排进动画。经过多轮修改，最终做出了一支 62 秒的产品展示视频，也留下了可以继续编辑的 3D 工程。一起来看看！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "作者利用 Grok Bot 的长期角色、共享文件和群聊协作功能，搭出了一个“情报→选题 Brief→写稿→事实审校→人工发布→数据复盘”的完整创作链路。如果你也想做自媒体，可以试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "《关于上下文工程的 100 个问题》从作者的真实异常切入，拆解了窗口堆满为何变笨、CLAUDE.md 为什么被忽略、低价跑法为何可能更费 token等关键问题。想把 Agent 从“偶尔好用”调到稳定协作，可以先把上下文这层看明白。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
