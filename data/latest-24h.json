@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-16T04:03:53.470351Z",
+  "generated_at": "2026-09-16T09:25:51.035922Z",
   "window_hours": 24,
-  "total_items": 20,
-  "total_items_ai_raw": 26,
-  "total_items_raw": 40,
-  "total_items_all_mode": 34,
+  "total_items": 21,
+  "total_items_ai_raw": 27,
+  "total_items_raw": 43,
+  "total_items_all_mode": 37,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 3145,
+  "archive_total": 3141,
   "site_count": 2,
   "source_count": 8,
   "site_stats": [
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
-      "count": 15,
-      "raw_count": 31
+      "count": 16,
+      "raw_count": 34
     },
     {
       "site_id": "official_ai",
@@ -26,6 +26,29 @@
   ],
   "items": [
     {
+      "id": "9673b129ad6b29c2acb0a9f1303f1b1d14674c63",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "InfoQ CN",
+      "title": "借助会话追踪与成本控制排查 AI 智能体故障",
+      "url": "https://www.infoq.cn/article/EixaQZkFMDLhlfE7RUK7",
+      "published_at": "2026-09-16T17:12:00Z",
+      "first_seen_at": "2026-09-16T09:25:51.035922Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
+      "ai_is_related": true,
+      "ai_score": 0.71,
+      "ai_label": "agent_workflow",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "智能体"
+      ],
+      "ai_noise": [],
+      "title_original": "借助会话追踪与成本控制排查 AI 智能体故障",
+      "title_en": null,
+      "title_zh": "借助会话追踪与成本控制排查 AI 智能体故障",
+      "title_bilingual": "借助会话追踪与成本控制排查 AI 智能体故障"
+    },
+    {
       "id": "7f48dcf35498ff5329d52da6c32064810a74f217",
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
@@ -34,7 +57,7 @@
       "url": "https://www.infoq.cn/article/foEzSr8xfG0STQ1wgbti",
       "published_at": "2026-09-16T08:00:00Z",
       "first_seen_at": "2026-09-16T04:03:53.470351Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "ai_general",
@@ -57,7 +80,7 @@
       "url": "https://simonwillison.net/2026/Sep/15/gemini-live",
       "published_at": "2026-09-15T22:47:07Z",
       "first_seen_at": "2026-09-16T04:03:53.470351Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "model_release",
@@ -68,8 +91,8 @@
       "ai_noise": [],
       "title_original": "Gemini Live audio",
       "title_en": "Gemini Live audio",
-      "title_zh": null,
-      "title_bilingual": "Gemini Live audio"
+      "title_zh": "双子座现场音频",
+      "title_bilingual": "双子座现场音频 / Gemini Live audio"
     },
     {
       "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
@@ -80,7 +103,7 @@
       "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
       "published_at": "2026-09-15T19:31:58Z",
       "first_seen_at": "2026-09-15T21:01:06.050524Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.87,
       "ai_label": "ai_general",
@@ -89,8 +112,8 @@
       "ai_noise": [],
       "title_original": "Enforce GitHub Advanced Security configurations",
       "title_en": "Enforce GitHub Advanced Security configurations",
-      "title_zh": null,
-      "title_bilingual": "Enforce GitHub Advanced Security configurations"
+      "title_zh": "强制执行 GitHub 高级安全配置",
+      "title_bilingual": "强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations"
     },
     {
       "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
@@ -101,7 +124,7 @@
       "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
       "published_at": "2026-09-15T19:07:47Z",
       "first_seen_at": "2026-09-15T21:01:06.050524Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.91,
       "ai_label": "developer_tool",
@@ -112,8 +135,8 @@
       "ai_noise": [],
       "title_original": "GitHub Copilot suggests custom properties definitions",
       "title_en": "GitHub Copilot suggests custom properties definitions",
-      "title_zh": null,
-      "title_bilingual": "GitHub Copilot suggests custom properties definitions"
+      "title_zh": "GitHub Copilot 建议自定义属性定义",
+      "title_bilingual": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions"
     },
     {
       "id": "ac86fbf157492b8c87a1505e74f9699f6a85683f",
@@ -124,7 +147,7 @@
       "url": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter",
       "published_at": "2026-09-15T18:00:09Z",
       "first_seen_at": "2026-09-15T21:01:06.050524Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -133,8 +156,8 @@
       "ai_noise": [],
       "title_original": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
       "title_en": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
-      "title_zh": null,
-      "title_bilingual": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’"
+      "title_zh": "AI“演员”蒂莉·诺伍德告诉我“所有人的生命都很重要”",
+      "title_bilingual": "AI“演员”蒂莉·诺伍德告诉我“所有人的生命都很重要” / AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’"
     },
     {
       "id": "d4698e1cc41a05e866c459a7521514f37fbe34ce",
@@ -145,7 +168,7 @@
       "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
       "published_at": "2026-09-15T17:05:57Z",
       "first_seen_at": "2026-09-15T17:33:11.151575Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.91,
       "ai_label": "model_release",
@@ -156,8 +179,8 @@
       "ai_noise": [],
       "title_original": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
       "title_en": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "title_zh": null,
-      "title_bilingual": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking"
+      "title_zh": "隆重推出 Gemini 3.8 Live 和 3.8 Live 延伸思维",
+      "title_bilingual": "隆重推出 Gemini 3.8 Live 和 3.8 Live 延伸思维 / Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking"
     },
     {
       "id": "af44a6b8a4424d703a33b21beb7ade88698f646d",
@@ -168,7 +191,7 @@
       "url": "https://developer.nvidia.com/blog/dense-vs-moe-models-active-parameters-throughput-and-when-to-choose-each",
       "published_at": "2026-09-15T17:00:11Z",
       "first_seen_at": "2026-09-15T17:33:11.151575Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "model_release",
@@ -179,8 +202,8 @@
       "ai_noise": [],
       "title_original": "Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each",
       "title_en": "Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each",
-      "title_zh": null,
-      "title_bilingual": "Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each"
+      "title_zh": "密集模型与 MoE 模型：活动参数、吞吐量以及何时选择每个模型",
+      "title_bilingual": "密集模型与 MoE 模型：活动参数、吞吐量以及何时选择每个模型 / Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each"
     },
     {
       "id": "9350224747bb6fce6b351f9c1c9cb23f36ce2852",
@@ -191,7 +214,7 @@
       "url": "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-deterministic-execution-drives-power-efficient-high-interactivity-inference-on-nvidia-vera-rubin",
       "published_at": "2026-09-15T16:55:00Z",
       "first_seen_at": "2026-09-15T17:33:11.151575Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "developer_tool",
@@ -202,8 +225,8 @@
       "ai_noise": [],
       "title_original": "How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin",
       "title_en": "How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin",
-      "title_zh": null,
-      "title_bilingual": "How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin"
+      "title_zh": "NVIDIA Groq 3 LPX 确定性执行如何在 NVIDIA Vera Rubin 上驱动高能效的高交互性推理",
+      "title_bilingual": "NVIDIA Groq 3 LPX 确定性执行如何在 NVIDIA Vera Rubin 上驱动高能效的高交互性推理 / How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin"
     },
     {
       "id": "999d3a75d741d87d9667a79912a792a85245fcf1",
@@ -214,7 +237,7 @@
       "url": "https://developer.nvidia.com/blog/how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories",
       "published_at": "2026-09-15T16:55:00Z",
       "first_seen_at": "2026-09-15T17:33:11.151575Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "developer_tool",
@@ -225,8 +248,8 @@
       "ai_noise": [],
       "title_original": "How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories",
       "title_en": "How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories",
-      "title_zh": null,
-      "title_bilingual": "How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories"
+      "title_zh": "NVIDIA NVLink 6 如何为 AI 工厂提供多层弹性",
+      "title_bilingual": "NVIDIA NVLink 6 如何为 AI 工厂提供多层弹性 / How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories"
     },
     {
       "id": "08cee9d1f51d6fe60bb758ce5bfbf0e73f55c319",
@@ -237,7 +260,7 @@
       "url": "https://www.infoq.cn/article/IfxYoy1PPkFQUpjWVBVr",
       "published_at": "2026-09-15T16:52:00Z",
       "first_seen_at": "2026-09-15T12:31:52.786836Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "model_release",
@@ -262,7 +285,7 @@
       "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
       "published_at": "2026-09-15T16:47:20Z",
       "first_seen_at": "2026-09-15T17:33:11.151575Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.87,
       "ai_label": "ai_general",
@@ -271,8 +294,8 @@
       "ai_noise": [],
       "title_original": "SHA-1 in HTTPS on GitHub sunset",
       "title_en": "SHA-1 in HTTPS on GitHub sunset",
-      "title_zh": null,
-      "title_bilingual": "SHA-1 in HTTPS on GitHub sunset"
+      "title_zh": "GitHub Sunset 上 HTTPS 中的 SHA-1",
+      "title_bilingual": "GitHub Sunset 上 HTTPS 中的 SHA-1 / SHA-1 in HTTPS on GitHub sunset"
     },
     {
       "id": "bdbd5011be0a470761882a05b6d6faaffebe64ca",
@@ -283,7 +306,7 @@
       "url": "https://www.infoq.cn/article/QtIy65SxjN0Q4riY7tCo",
       "published_at": "2026-09-15T16:09:20Z",
       "first_seen_at": "2026-09-15T12:31:52.786836Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "developer_tool",
@@ -308,7 +331,7 @@
       "url": "https://www.infoq.cn/article/HEN8icBvRCoKVvo2dSNA",
       "published_at": "2026-09-15T16:07:08Z",
       "first_seen_at": "2026-09-15T12:31:52.786836Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "ai_product_update",
@@ -331,7 +354,7 @@
       "url": "https://www.infoq.cn/article/g9eJhszhJa3JcZsgZwmj",
       "published_at": "2026-09-15T16:01:41Z",
       "first_seen_at": "2026-09-15T12:31:52.786836Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "model_release",
@@ -354,7 +377,7 @@
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
       "published_at": "2026-09-15T16:00:44Z",
       "first_seen_at": "2026-09-15T17:33:11.151575Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.95,
       "ai_label": "agent_workflow",
@@ -366,8 +389,8 @@
       "ai_noise": [],
       "title_original": "Your Agent Aced the Task. Will It Do It Again?",
       "title_en": "Your Agent Aced the Task. Will It Do It Again?",
-      "title_zh": null,
-      "title_bilingual": "Your Agent Aced the Task. Will It Do It Again?"
+      "title_zh": "您的代理人完成了任务。它会再次这样做吗？",
+      "title_bilingual": "您的代理人完成了任务。它会再次这样做吗？ / Your Agent Aced the Task. Will It Do It Again?"
     },
     {
       "id": "328d59522cc45eb8bebf46f2fdac19e5eed3e364",
@@ -378,7 +401,7 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
       "published_at": "2026-09-15T16:00:00Z",
       "first_seen_at": "2026-09-15T17:33:11.151575Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_product_update",
@@ -387,8 +410,8 @@
       "ai_noise": [],
       "title_original": "AI for Societal Impact",
       "title_en": "AI for Societal Impact",
-      "title_zh": null,
-      "title_bilingual": "AI for Societal Impact"
+      "title_zh": "人工智能的社会影响",
+      "title_bilingual": "人工智能的社会影响 / AI for Societal Impact"
     },
     {
       "id": "f677d081c0048faa5fe4140b5340b6564acf28d0",
@@ -399,7 +422,7 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
       "published_at": "2026-09-15T16:00:00Z",
       "first_seen_at": "2026-09-15T17:33:11.151575Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_product_update",
@@ -408,8 +431,8 @@
       "ai_noise": [],
       "title_original": "Building AI to accelerate science and improve lives",
       "title_en": "Building AI to accelerate science and improve lives",
-      "title_zh": null,
-      "title_bilingual": "Building AI to accelerate science and improve lives"
+      "title_zh": "构建人工智能以加速科学发展并改善生活",
+      "title_bilingual": "构建人工智能以加速科学发展并改善生活 / Building AI to accelerate science and improve lives"
     },
     {
       "id": "41a04ba8bad5fc9a22e72902ff6f74234b7a400c",
@@ -420,7 +443,7 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
       "published_at": "2026-09-15T16:00:00Z",
       "first_seen_at": "2026-09-15T17:33:11.151575Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_product_update",
@@ -429,8 +452,8 @@
       "ai_noise": [],
       "title_original": "AI for everyone in every language",
       "title_en": "AI for everyone in every language",
-      "title_zh": null,
-      "title_bilingual": "AI for everyone in every language"
+      "title_zh": "为每个人提供每种语言的人工智能",
+      "title_bilingual": "为每个人提供每种语言的人工智能 / AI for everyone in every language"
     },
     {
       "id": "f099fb8e727ce23655feeba08579e68fc6052fc1",
@@ -441,7 +464,7 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
       "published_at": "2026-09-15T13:00:00Z",
       "first_seen_at": "2026-09-15T17:33:11.151575Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_product_update",
@@ -450,8 +473,8 @@
       "ai_noise": [],
       "title_original": "New insights from Google’s AI & Economy ATLAS",
       "title_en": "New insights from Google’s AI & Economy ATLAS",
-      "title_zh": null,
-      "title_bilingual": "New insights from Google’s AI & Economy ATLAS"
+      "title_zh": "来自 Google 人工智能与经济 ATLAS 的新见解",
+      "title_bilingual": "来自 Google 人工智能与经济 ATLAS 的新见解 / New insights from Google’s AI & Economy ATLAS"
     },
     {
       "id": "7ca3b6bfea348c4b62398b9e859f96174303f8b5",
@@ -479,6 +502,29 @@
   ],
   "items_ai": [
     {
+      "id": "9673b129ad6b29c2acb0a9f1303f1b1d14674c63",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "InfoQ CN",
+      "title": "借助会话追踪与成本控制排查 AI 智能体故障",
+      "url": "https://www.infoq.cn/article/EixaQZkFMDLhlfE7RUK7",
+      "published_at": "2026-09-16T17:12:00Z",
+      "first_seen_at": "2026-09-16T09:25:51.035922Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
+      "ai_is_related": true,
+      "ai_score": 0.71,
+      "ai_label": "agent_workflow",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "智能体"
+      ],
+      "ai_noise": [],
+      "title_original": "借助会话追踪与成本控制排查 AI 智能体故障",
+      "title_en": null,
+      "title_zh": "借助会话追踪与成本控制排查 AI 智能体故障",
+      "title_bilingual": "借助会话追踪与成本控制排查 AI 智能体故障"
+    },
+    {
       "id": "7f48dcf35498ff5329d52da6c32064810a74f217",
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
@@ -487,7 +533,7 @@
       "url": "https://www.infoq.cn/article/foEzSr8xfG0STQ1wgbti",
       "published_at": "2026-09-16T08:00:00Z",
       "first_seen_at": "2026-09-16T04:03:53.470351Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "ai_general",
@@ -510,7 +556,7 @@
       "url": "https://simonwillison.net/2026/Sep/15/gemini-live",
       "published_at": "2026-09-15T22:47:07Z",
       "first_seen_at": "2026-09-16T04:03:53.470351Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "model_release",
@@ -521,8 +567,8 @@
       "ai_noise": [],
       "title_original": "Gemini Live audio",
       "title_en": "Gemini Live audio",
-      "title_zh": null,
-      "title_bilingual": "Gemini Live audio"
+      "title_zh": "双子座现场音频",
+      "title_bilingual": "双子座现场音频 / Gemini Live audio"
     },
     {
       "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
@@ -533,7 +579,7 @@
       "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
       "published_at": "2026-09-15T19:31:58Z",
       "first_seen_at": "2026-09-15T21:01:06.050524Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.87,
       "ai_label": "ai_general",
@@ -542,8 +588,8 @@
       "ai_noise": [],
       "title_original": "Enforce GitHub Advanced Security configurations",
       "title_en": "Enforce GitHub Advanced Security configurations",
-      "title_zh": null,
-      "title_bilingual": "Enforce GitHub Advanced Security configurations"
+      "title_zh": "强制执行 GitHub 高级安全配置",
+      "title_bilingual": "强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations"
     },
     {
       "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
@@ -554,7 +600,7 @@
       "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
       "published_at": "2026-09-15T19:07:47Z",
       "first_seen_at": "2026-09-15T21:01:06.050524Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.91,
       "ai_label": "developer_tool",
@@ -565,8 +611,8 @@
       "ai_noise": [],
       "title_original": "GitHub Copilot suggests custom properties definitions",
       "title_en": "GitHub Copilot suggests custom properties definitions",
-      "title_zh": null,
-      "title_bilingual": "GitHub Copilot suggests custom properties definitions"
+      "title_zh": "GitHub Copilot 建议自定义属性定义",
+      "title_bilingual": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions"
     },
     {
       "id": "ac86fbf157492b8c87a1505e74f9699f6a85683f",
@@ -577,7 +623,7 @@
       "url": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter",
       "published_at": "2026-09-15T18:00:09Z",
       "first_seen_at": "2026-09-15T21:01:06.050524Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -586,8 +632,8 @@
       "ai_noise": [],
       "title_original": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
       "title_en": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
-      "title_zh": null,
-      "title_bilingual": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’"
+      "title_zh": "AI“演员”蒂莉·诺伍德告诉我“所有人的生命都很重要”",
+      "title_bilingual": "AI“演员”蒂莉·诺伍德告诉我“所有人的生命都很重要” / AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’"
     },
     {
       "id": "d4698e1cc41a05e866c459a7521514f37fbe34ce",
@@ -598,7 +644,7 @@
       "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
       "published_at": "2026-09-15T17:05:57Z",
       "first_seen_at": "2026-09-15T17:33:11.151575Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.91,
       "ai_label": "model_release",
@@ -609,8 +655,8 @@
       "ai_noise": [],
       "title_original": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
       "title_en": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "title_zh": null,
-      "title_bilingual": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking"
+      "title_zh": "隆重推出 Gemini 3.8 Live 和 3.8 Live 延伸思维",
+      "title_bilingual": "隆重推出 Gemini 3.8 Live 和 3.8 Live 延伸思维 / Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking"
     },
     {
       "id": "af44a6b8a4424d703a33b21beb7ade88698f646d",
@@ -621,7 +667,7 @@
       "url": "https://developer.nvidia.com/blog/dense-vs-moe-models-active-parameters-throughput-and-when-to-choose-each",
       "published_at": "2026-09-15T17:00:11Z",
       "first_seen_at": "2026-09-15T17:33:11.151575Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "model_release",
@@ -632,8 +678,8 @@
       "ai_noise": [],
       "title_original": "Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each",
       "title_en": "Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each",
-      "title_zh": null,
-      "title_bilingual": "Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each"
+      "title_zh": "密集模型与 MoE 模型：活动参数、吞吐量以及何时选择每个模型",
+      "title_bilingual": "密集模型与 MoE 模型：活动参数、吞吐量以及何时选择每个模型 / Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each"
     },
     {
       "id": "9350224747bb6fce6b351f9c1c9cb23f36ce2852",
@@ -644,7 +690,7 @@
       "url": "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-deterministic-execution-drives-power-efficient-high-interactivity-inference-on-nvidia-vera-rubin",
       "published_at": "2026-09-15T16:55:00Z",
       "first_seen_at": "2026-09-15T17:33:11.151575Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "developer_tool",
@@ -655,8 +701,8 @@
       "ai_noise": [],
       "title_original": "How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin",
       "title_en": "How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin",
-      "title_zh": null,
-      "title_bilingual": "How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin"
+      "title_zh": "NVIDIA Groq 3 LPX 确定性执行如何在 NVIDIA Vera Rubin 上驱动高能效的高交互性推理",
+      "title_bilingual": "NVIDIA Groq 3 LPX 确定性执行如何在 NVIDIA Vera Rubin 上驱动高能效的高交互性推理 / How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin"
     },
     {
       "id": "999d3a75d741d87d9667a79912a792a85245fcf1",
@@ -667,7 +713,7 @@
       "url": "https://developer.nvidia.com/blog/how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories",
       "published_at": "2026-09-15T16:55:00Z",
       "first_seen_at": "2026-09-15T17:33:11.151575Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "developer_tool",
@@ -678,8 +724,8 @@
       "ai_noise": [],
       "title_original": "How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories",
       "title_en": "How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories",
-      "title_zh": null,
-      "title_bilingual": "How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories"
+      "title_zh": "NVIDIA NVLink 6 如何为 AI 工厂提供多层弹性",
+      "title_bilingual": "NVIDIA NVLink 6 如何为 AI 工厂提供多层弹性 / How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories"
     },
     {
       "id": "08cee9d1f51d6fe60bb758ce5bfbf0e73f55c319",
@@ -690,7 +736,7 @@
       "url": "https://www.infoq.cn/article/IfxYoy1PPkFQUpjWVBVr",
       "published_at": "2026-09-15T16:52:00Z",
       "first_seen_at": "2026-09-15T12:31:52.786836Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "model_release",
@@ -715,7 +761,7 @@
       "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
       "published_at": "2026-09-15T16:47:20Z",
       "first_seen_at": "2026-09-15T17:33:11.151575Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.87,
       "ai_label": "ai_general",
@@ -724,8 +770,8 @@
       "ai_noise": [],
       "title_original": "SHA-1 in HTTPS on GitHub sunset",
       "title_en": "SHA-1 in HTTPS on GitHub sunset",
-      "title_zh": null,
-      "title_bilingual": "SHA-1 in HTTPS on GitHub sunset"
+      "title_zh": "GitHub Sunset 上 HTTPS 中的 SHA-1",
+      "title_bilingual": "GitHub Sunset 上 HTTPS 中的 SHA-1 / SHA-1 in HTTPS on GitHub sunset"
     },
     {
       "id": "bdbd5011be0a470761882a05b6d6faaffebe64ca",
@@ -736,7 +782,7 @@
       "url": "https://www.infoq.cn/article/QtIy65SxjN0Q4riY7tCo",
       "published_at": "2026-09-15T16:09:20Z",
       "first_seen_at": "2026-09-15T12:31:52.786836Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "developer_tool",
@@ -761,7 +807,7 @@
       "url": "https://www.infoq.cn/article/HEN8icBvRCoKVvo2dSNA",
       "published_at": "2026-09-15T16:07:08Z",
       "first_seen_at": "2026-09-15T12:31:52.786836Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "ai_product_update",
@@ -784,7 +830,7 @@
       "url": "https://www.infoq.cn/article/g9eJhszhJa3JcZsgZwmj",
       "published_at": "2026-09-15T16:01:41Z",
       "first_seen_at": "2026-09-15T12:31:52.786836Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "model_release",
@@ -807,7 +853,7 @@
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
       "published_at": "2026-09-15T16:00:44Z",
       "first_seen_at": "2026-09-15T17:33:11.151575Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.95,
       "ai_label": "agent_workflow",
@@ -819,8 +865,8 @@
       "ai_noise": [],
       "title_original": "Your Agent Aced the Task. Will It Do It Again?",
       "title_en": "Your Agent Aced the Task. Will It Do It Again?",
-      "title_zh": null,
-      "title_bilingual": "Your Agent Aced the Task. Will It Do It Again?"
+      "title_zh": "您的代理人完成了任务。它会再次这样做吗？",
+      "title_bilingual": "您的代理人完成了任务。它会再次这样做吗？ / Your Agent Aced the Task. Will It Do It Again?"
     },
     {
       "id": "328d59522cc45eb8bebf46f2fdac19e5eed3e364",
@@ -831,7 +877,7 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
       "published_at": "2026-09-15T16:00:00Z",
       "first_seen_at": "2026-09-15T17:33:11.151575Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_product_update",
@@ -840,8 +886,8 @@
       "ai_noise": [],
       "title_original": "AI for Societal Impact",
       "title_en": "AI for Societal Impact",
-      "title_zh": null,
-      "title_bilingual": "AI for Societal Impact"
+      "title_zh": "人工智能的社会影响",
+      "title_bilingual": "人工智能的社会影响 / AI for Societal Impact"
     },
     {
       "id": "f677d081c0048faa5fe4140b5340b6564acf28d0",
@@ -852,7 +898,7 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
       "published_at": "2026-09-15T16:00:00Z",
       "first_seen_at": "2026-09-15T17:33:11.151575Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_product_update",
@@ -861,8 +907,8 @@
       "ai_noise": [],
       "title_original": "Building AI to accelerate science and improve lives",
       "title_en": "Building AI to accelerate science and improve lives",
-      "title_zh": null,
-      "title_bilingual": "Building AI to accelerate science and improve lives"
+      "title_zh": "构建人工智能以加速科学发展并改善生活",
+      "title_bilingual": "构建人工智能以加速科学发展并改善生活 / Building AI to accelerate science and improve lives"
     },
     {
       "id": "41a04ba8bad5fc9a22e72902ff6f74234b7a400c",
@@ -873,7 +919,7 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
       "published_at": "2026-09-15T16:00:00Z",
       "first_seen_at": "2026-09-15T17:33:11.151575Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_product_update",
@@ -882,8 +928,8 @@
       "ai_noise": [],
       "title_original": "AI for everyone in every language",
       "title_en": "AI for everyone in every language",
-      "title_zh": null,
-      "title_bilingual": "AI for everyone in every language"
+      "title_zh": "为每个人提供每种语言的人工智能",
+      "title_bilingual": "为每个人提供每种语言的人工智能 / AI for everyone in every language"
     },
     {
       "id": "f099fb8e727ce23655feeba08579e68fc6052fc1",
@@ -894,7 +940,7 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
       "published_at": "2026-09-15T13:00:00Z",
       "first_seen_at": "2026-09-15T17:33:11.151575Z",
-      "last_seen_at": "2026-09-16T04:03:53.470351Z",
+      "last_seen_at": "2026-09-16T09:25:51.035922Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_product_update",
@@ -903,8 +949,8 @@
       "ai_noise": [],
       "title_original": "New insights from Google’s AI & Economy ATLAS",
       "title_en": "New insights from Google’s AI & Economy ATLAS",
-      "title_zh": null,
-      "title_bilingual": "New insights from Google’s AI & Economy ATLAS"
+      "title_zh": "来自 Google 人工智能与经济 ATLAS 的新见解",
+      "title_bilingual": "来自 Google 人工智能与经济 ATLAS 的新见解 / New insights from Google’s AI & Economy ATLAS"
     },
     {
       "id": "7ca3b6bfea348c4b62398b9e859f96174303f8b5",
