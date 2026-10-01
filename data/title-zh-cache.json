@@ -18621,5 +18621,8 @@
   "HydraFusion in VS Code and the GitHub Copilot app": "VS Code 和 GitHub Copilot 应用程序中的 HydraFusion",
   "X25519-only TLS ends for GHE.com on October 7": "GHE.com 的仅 X25519 TLS 将于 10 月 7 日结束",
   "Disrupting a coordinated model-distillation campaign": "破坏协调的模型蒸馏活动",
-  "Helping small businesses put AI to work": "帮助小型企业将人工智能发挥作用"
+  "Helping small businesses put AI to work": "帮助小型企业将人工智能发挥作用",
+  "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
+  "GitHub async merge API generally available": "GitHub 异步合并 API 正式可用",
+  "Actions Runner Controller release 0.15.0": "Actions Runner 控制器版本 0.15.0"
 }
