@@ -18606,5 +18606,20 @@
   "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent": "使用 GitHub 安全实验室任务流代理进行人工智能驱动的模糊测试",
   "Introducing Gemini 3.8 Live with Live Avatar": "隆重推出 Gemini 3.8 Live with Live Avatar",
   "Google’s Gemini Can Now Make Calls for You on Pixel Phones": "谷歌的 Gemini 现在可以在 Pixel 手机上为你打电话",
-  "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support": "CodeQL 2.27.1 添加了 C 和 C++ 查询以及 Kotlin 2.4.20 支持"
+  "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support": "CodeQL 2.27.1 添加了 C 和 C++ 查询以及 Kotlin 2.4.20 支持",
+  "Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages": "针对沙特阿拉伯方言微调 NVIDIA Nemotron，并提供通往其他语言的途径",
+  "Opt-in dist-tag permissions for npm trusted publishing": "选择 npm 可信发布的 dist-tag 权限",
+  "Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton": "使用 NVIDIA Dynamo-Triton 部署 HSTU 生成推荐器",
+  "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear": "特朗普的人工智能安全“协议”是一个花哨的小指誓言",
+  "Gemini 4 Argon: our next era of frontier intelligence": "Gemini 4 Argon：我们的下一个前沿情报时代",
+  "The Battle to Be Your Personal AI Agent Is Here": "成为你的私人人工智能代理之战就在这里",
+  "Expanding AI Storage Access with NVIDIA cuObject and the NVIDIA SCADA Server SDK": "使用 NVIDIA cuObject 和 NVIDIA SCADA 服务器 SDK 扩展 AI 存储访问",
+  "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI": "即使没有人工智能，也有很多理由担心生物武器的发展",
+  "GitHub Advanced Security trials for GitHub Team": "GitHub 团队的 GitHub 高级安全试用",
+  "Tracing Agent Harness Behavior with NVIDIA NeMo Relay": "使用 NVIDIA NeMo Relay 跟踪代理线束行为",
+  "Introducing SynthID Bio": "SynthID Bio 简介",
+  "HydraFusion in VS Code and the GitHub Copilot app": "VS Code 和 GitHub Copilot 应用程序中的 HydraFusion",
+  "X25519-only TLS ends for GHE.com on October 7": "GHE.com 的仅 X25519 TLS 将于 10 月 7 日结束",
+  "Disrupting a coordinated model-distillation campaign": "破坏协调的模型蒸馏活动",
+  "Helping small businesses put AI to work": "帮助小型企业将人工智能发挥作用"
 }
