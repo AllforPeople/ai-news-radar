@@ -18624,5 +18624,21 @@
   "Helping small businesses put AI to work": "帮助小型企业将人工智能发挥作用",
   "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
   "GitHub async merge API generally available": "GitHub 异步合并 API 正式可用",
-  "Actions Runner Controller release 0.15.0": "Actions Runner 控制器版本 0.15.0"
+  "Actions Runner Controller release 0.15.0": "Actions Runner 控制器版本 0.15.0",
+  "Stateless GitHub App installation tokens rolled out": "无状态 GitHub 应用程序安装令牌推出",
+  "Copilot code review: API support and new default effort level": "Copilot 代码审查：API 支持和新的默认工作级别",
+  "Selected models in GitHub Copilot deprecated": "已弃用 GitHub Copilot 中的选定模型",
+  "A model guide for the GPT-6 family": "GPT-6 系列模型指南",
+  "These AI Experts Want to Do High-Stakes Research Out in the Open": "这些人工智能专家希望公开进行高风险研究",
+  "Open-sourcing AstaBrief, the fast report-generation model in Asta": "开源 AstaBrief，Asta 中的快速报告生成模型",
+  "The latest AI news we announced in September 2026": "我们于 2026 年 9 月公布的最新 AI 新闻",
+  "AI is changing developer work. Here are three skills to strengthen.": "人工智能正在改变开发人员的工作。以下是需要加强的三个技能。",
+  "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked": "特朗普疯狂的人工智能品牌重塑是对科技高管的忠诚度测试——而且确实有效",
+  "New fields for SecurityAdvisory GraphQL API": "SecurityAdvisory GraphQL API 的新字段",
+  "Confidential comments on repository security advisories": "关于存储库安全建议的机密评论",
+  "Repository security advisory comments API in public preview": "公共预览版中的存储库安全咨询评论 API",
+  "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data": "ChatGPT Mac 应用程序中的缺陷可能让黑客窃取敏感数据",
+  "AI Is Making a Mess of Nurses’ Schedules. They Say It’s a Safety Issue": "人工智能正在弄乱护士的日程安排。他们说这是一个安全问题",
+  "Health Care Workers Are Tired of Cleaning Up Palantir’s Mess": "医护人员厌倦了清理 Palantir 的烂摊子",
+  "AutoSynthData: Generating Training Data for Enterprise Agents": "AutoSynthData：为企业代理生成训练数据"
 }
