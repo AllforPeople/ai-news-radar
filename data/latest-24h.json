@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-10-04T22:26:43.974177Z",
+  "generated_at": "2026-10-05T01:09:50.259309Z",
   "window_hours": 24,
-  "total_items": 2,
-  "total_items_ai_raw": 3,
-  "total_items_raw": 7,
-  "total_items_all_mode": 6,
+  "total_items": 1,
+  "total_items_ai_raw": 1,
+  "total_items_raw": 4,
+  "total_items_all_mode": 4,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 3222,
+  "archive_total": 3216,
   "site_count": 2,
-  "source_count": 2,
+  "source_count": 1,
   "site_stats": [
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
-      "count": 2,
-      "raw_count": 6
+      "count": 1,
+      "raw_count": 4
     },
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "count": 0,
-      "raw_count": 1
+      "raw_count": 0
     }
   ],
   "items": [
@@ -34,7 +34,7 @@
       "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break",
       "published_at": "2026-10-04T10:00:00Z",
       "first_seen_at": "2026-10-04T11:13:43.001626Z",
-      "last_seen_at": "2026-10-04T22:26:43.974177Z",
+      "last_seen_at": "2026-10-05T01:09:50.259309Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -45,30 +45,6 @@
       "title_en": "Rural Data Centers Are in for a Big Federal Tax Break",
       "title_zh": "农村数据中心将享受联邦大幅税收减免",
       "title_bilingual": "农村数据中心将享受联邦大幅税收减免 / Rural Data Centers Are in for a Big Federal Tax Break"
-    },
-    {
-      "id": "74526737e41d0aeed53733f3198ebd66748548b2",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "Hugging Face Blog",
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "published_at": "2026-10-03T22:56:48Z",
-      "first_seen_at": "2026-10-03T23:36:40.753603Z",
-      "last_seen_at": "2026-10-04T22:26:43.974177Z",
-      "ai_is_related": true,
-      "ai_score": 0.75,
-      "ai_label": "agent_workflow",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "hugging face",
-        "huggingface"
-      ],
-      "ai_noise": [],
-      "title_original": "The Agent Said It Was Done. The Database Disagreed.",
-      "title_en": "The Agent Said It Was Done. The Database Disagreed.",
-      "title_zh": "代理说已经完成了。数据库不同意。",
-      "title_bilingual": "代理说已经完成了。数据库不同意。 / The Agent Said It Was Done. The Database Disagreed."
     }
   ],
   "items_ai": [
@@ -81,7 +57,7 @@
       "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break",
       "published_at": "2026-10-04T10:00:00Z",
       "first_seen_at": "2026-10-04T11:13:43.001626Z",
-      "last_seen_at": "2026-10-04T22:26:43.974177Z",
+      "last_seen_at": "2026-10-05T01:09:50.259309Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -92,30 +68,6 @@
       "title_en": "Rural Data Centers Are in for a Big Federal Tax Break",
       "title_zh": "农村数据中心将享受联邦大幅税收减免",
       "title_bilingual": "农村数据中心将享受联邦大幅税收减免 / Rural Data Centers Are in for a Big Federal Tax Break"
-    },
-    {
-      "id": "74526737e41d0aeed53733f3198ebd66748548b2",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "Hugging Face Blog",
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "published_at": "2026-10-03T22:56:48Z",
-      "first_seen_at": "2026-10-03T23:36:40.753603Z",
-      "last_seen_at": "2026-10-04T22:26:43.974177Z",
-      "ai_is_related": true,
-      "ai_score": 0.75,
-      "ai_label": "agent_workflow",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "hugging face",
-        "huggingface"
-      ],
-      "ai_noise": [],
-      "title_original": "The Agent Said It Was Done. The Database Disagreed.",
-      "title_en": "The Agent Said It Was Done. The Database Disagreed.",
-      "title_zh": "代理说已经完成了。数据库不同意。",
-      "title_bilingual": "代理说已经完成了。数据库不同意。 / The Agent Said It Was Done. The Database Disagreed."
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
