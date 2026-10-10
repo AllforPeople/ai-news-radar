@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-10T17:42:18.707178Z",
+  "generated_at": "2026-10-10T21:21:35.616388Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-10-10",
-  "count_today": 4,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-10-10",
@@ -24,11 +24,21 @@
     },
     {
       "date": "2026-10-10",
+      "title": "很多老师对 Agent 很感兴趣，却常常卡在资料太散、工具名太多、教程太碎，不知道从哪一步开始。这套《教师办公 Agent 入门指南》很适合一线教师入门：用豆包工作串起备课资料整理、PPT 生成、录音处理、公众号排版、成绩分析、课堂互动、Skill 制作、飞书知识库 / 多维表格 / 自动化等 21 个主题。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-10",
       "title": "Anthropic推出的Claude Motion，不靠视频大模型，直接用代码渲染演示动效。只需调整文字、数字、时长等参数，其余画面不会被破坏。文中还提供了可直接丢给 Opus 5.5 的全套提示词，自动筛选适合可视化的内容、输出分镜脚本、生成代码并导出 1080p MP4，快速制作产品演示短片。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "AI 写代码越来越强，大家最常聊效率，却很少认真聊：当机器接过越来越多“手活”，工程师会失去什么。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 24,
+  "count_7d": 26,
   "updates_7d": [
     {
       "date": "2026-10-10",
@@ -47,7 +57,17 @@
     },
     {
       "date": "2026-10-10",
+      "title": "很多老师对 Agent 很感兴趣，却常常卡在资料太散、工具名太多、教程太碎，不知道从哪一步开始。这套《教师办公 Agent 入门指南》很适合一线教师入门：用豆包工作串起备课资料整理、PPT 生成、录音处理、公众号排版、成绩分析、课堂互动、Skill 制作、飞书知识库 / 多维表格 / 自动化等 21 个主题。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-10",
       "title": "Anthropic推出的Claude Motion，不靠视频大模型，直接用代码渲染演示动效。只需调整文字、数字、时长等参数，其余画面不会被破坏。文中还提供了可直接丢给 Opus 5.5 的全套提示词，自动筛选适合可视化的内容、输出分镜脚本、生成代码并导出 1080p MP4，快速制作产品演示短片。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "AI 写代码越来越强，大家最常聊效率，却很少认真聊：当机器接过越来越多“手活”，工程师会失去什么。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
