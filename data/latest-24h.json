@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-10-11T18:20:16.669666Z",
+  "generated_at": "2026-10-11T22:19:00.763848Z",
   "window_hours": 24,
-  "total_items": 4,
-  "total_items_ai_raw": 4,
-  "total_items_raw": 8,
-  "total_items_all_mode": 8,
+  "total_items": 3,
+  "total_items_ai_raw": 3,
+  "total_items_raw": 6,
+  "total_items_all_mode": 6,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 3226,
+  "archive_total": 3223,
   "site_count": 2,
-  "source_count": 3,
+  "source_count": 2,
   "site_stats": [
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
       "count": 3,
-      "raw_count": 7
+      "raw_count": 6
     },
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
-      "count": 1,
-      "raw_count": 1
+      "count": 0,
+      "raw_count": 0
     }
   ],
   "items": [
@@ -34,7 +34,7 @@
       "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground",
       "published_at": "2026-10-11T11:30:00Z",
       "first_seen_at": "2026-10-11T13:18:49.782162Z",
-      "last_seen_at": "2026-10-11T18:20:16.669666Z",
+      "last_seen_at": "2026-10-11T22:19:00.763848Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_product_update",
@@ -55,7 +55,7 @@
       "url": "https://www.infoq.cn/article/soRObi5sjdTTUM95zLJK",
       "published_at": "2026-10-11T10:04:31Z",
       "first_seen_at": "2026-10-11T06:13:58.131320Z",
-      "last_seen_at": "2026-10-11T18:20:16.669666Z",
+      "last_seen_at": "2026-10-11T22:19:00.763848Z",
       "ai_is_related": true,
       "ai_score": 0.74,
       "ai_label": "developer_tool",
@@ -79,7 +79,7 @@
       "url": "https://www.infoq.cn/article/FTtTLqvzJeMiE03IowFP",
       "published_at": "2026-10-11T10:00:00Z",
       "first_seen_at": "2026-10-11T06:13:58.131320Z",
-      "last_seen_at": "2026-10-11T18:20:16.669666Z",
+      "last_seen_at": "2026-10-11T22:19:00.763848Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "agent_workflow",
@@ -90,29 +90,6 @@
       "title_en": null,
       "title_zh": "AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海",
       "title_bilingual": "AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海"
-    },
-    {
-      "id": "7105f7a887a844336072613e1ed600066153efc2",
-      "site_id": "official_ai",
-      "site_name": "Official AI Updates",
-      "source": "GitHub Changelog",
-      "title": "New controls and chat improvements in Copilot for JetBrains",
-      "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
-      "published_at": "2026-10-10T18:53:39Z",
-      "first_seen_at": "2026-10-10T21:21:35.616388Z",
-      "last_seen_at": "2026-10-11T18:20:16.669666Z",
-      "ai_is_related": true,
-      "ai_score": 0.91,
-      "ai_label": "developer_tool",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "copilot"
-      ],
-      "ai_noise": [],
-      "title_original": "New controls and chat improvements in Copilot for JetBrains",
-      "title_en": "New controls and chat improvements in Copilot for JetBrains",
-      "title_zh": "Copilot for JetBrains 中的新控件和聊天改进",
-      "title_bilingual": "Copilot for JetBrains 中的新控件和聊天改进 / New controls and chat improvements in Copilot for JetBrains"
     }
   ],
   "items_ai": [
@@ -125,7 +102,7 @@
       "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground",
       "published_at": "2026-10-11T11:30:00Z",
       "first_seen_at": "2026-10-11T13:18:49.782162Z",
-      "last_seen_at": "2026-10-11T18:20:16.669666Z",
+      "last_seen_at": "2026-10-11T22:19:00.763848Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_product_update",
@@ -146,7 +123,7 @@
       "url": "https://www.infoq.cn/article/soRObi5sjdTTUM95zLJK",
       "published_at": "2026-10-11T10:04:31Z",
       "first_seen_at": "2026-10-11T06:13:58.131320Z",
-      "last_seen_at": "2026-10-11T18:20:16.669666Z",
+      "last_seen_at": "2026-10-11T22:19:00.763848Z",
       "ai_is_related": true,
       "ai_score": 0.74,
       "ai_label": "developer_tool",
@@ -170,7 +147,7 @@
       "url": "https://www.infoq.cn/article/FTtTLqvzJeMiE03IowFP",
       "published_at": "2026-10-11T10:00:00Z",
       "first_seen_at": "2026-10-11T06:13:58.131320Z",
-      "last_seen_at": "2026-10-11T18:20:16.669666Z",
+      "last_seen_at": "2026-10-11T22:19:00.763848Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "agent_workflow",
@@ -181,29 +158,6 @@
       "title_en": null,
       "title_zh": "AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海",
       "title_bilingual": "AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海"
-    },
-    {
-      "id": "7105f7a887a844336072613e1ed600066153efc2",
-      "site_id": "official_ai",
-      "site_name": "Official AI Updates",
-      "source": "GitHub Changelog",
-      "title": "New controls and chat improvements in Copilot for JetBrains",
-      "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
-      "published_at": "2026-10-10T18:53:39Z",
-      "first_seen_at": "2026-10-10T21:21:35.616388Z",
-      "last_seen_at": "2026-10-11T18:20:16.669666Z",
-      "ai_is_related": true,
-      "ai_score": 0.91,
-      "ai_label": "developer_tool",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "copilot"
-      ],
-      "ai_noise": [],
-      "title_original": "New controls and chat improvements in Copilot for JetBrains",
-      "title_en": "New controls and chat improvements in Copilot for JetBrains",
-      "title_zh": "Copilot for JetBrains 中的新控件和聊天改进",
-      "title_bilingual": "Copilot for JetBrains 中的新控件和聊天改进 / New controls and chat improvements in Copilot for JetBrains"
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
